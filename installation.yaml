@@ -2,7 +2,7 @@ distribution_code_name: "fcitx-rime"
 distribution_name: Rime
 distribution_version: 0.2.3
 install_time: "Mon Jun  7 11:27:43 2021"
-installation_id: "dir"
+installation_id: "rime_fcitx_xiao_he"
 rime_version: 1.2.9
-sync_dir: "/home/ubuntu/PycharmProjects/rime_fcitx_xiao_he/"
+sync_dir: "/home/ubuntu/PycharmProjects/"
 
