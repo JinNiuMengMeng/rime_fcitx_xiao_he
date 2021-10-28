@@ -1,0 +1,82 @@
+# Rime default settings
+# encoding: utf-8
+
+config_version: "0.38"
+
+patch:
+  menu:
+    page_size: 8
+  schema_list:
+    - schema: clover
+    - schema: double_pinyin_flypy
+  switcher:
+    caption: "〔切换输入法〕"
+    hotkeys:
+    - "F4"
+  key_binder:
+    bindings:
+    - {accept: "=", send: Page_Down, when: composing}
+    - {accept: "-", send: Page_Up, when: composing}
+    - {accept: Control+period, toggle: ascii_punct, when: always}
+    - {accept: "Shift_L", toggle: commit_code, when: always}
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key:
+      Caps_Lock: clear
+      Control_L: noop
+      Control_R: noop
+      Eisu_toggle: clear
+      # Shift_L: noop
+      # Shift_R: noop
+      Shift_L: commit_code
+      Shift_R: commit_text
+  punctuator/half_shape:
+    "," : "，"
+    "." : "。"
+    "<" : "《"
+    ">" : "》"
+    "/" : "、"
+    "?" : "？"
+    ";" : "；"
+    ":" : "："
+    '\' : "、"
+    "|" : "|"
+    "`" : "`"
+    "~" : "～"
+    "!" : "！"
+    "@" : "＠"
+    "#" : "#"
+    "%" : "％"
+    "$" : "￥"
+    "^" : "……"
+    "&" : "＆"
+    "*" : "×"
+    "(" : "（"
+    ")" : "）"
+    "-" : "－"
+    "_" : "——"
+    "+" : "＋"
+    "=" : "＝"
+    "{" : "｛"
+    "}" : "｝"
+    "[" : "["
+    "]" : "]"
+    # "[" : "【"
+    # "]" : "】"
+  # style:
+  #   inline_preedit": true       # 嵌入式候选窗单行显示
+  #   hilite_spacing": 100        # 序号和候选字之间的间隔
+  #   display_tray_icon": false
+  #   horizontal": true           # 横排显示
+  #   font_face": "黑体"          # 字体
+  #   font_point": 13             # 字体大小
+  # layout:
+  #   border_width": 0
+  #   border": 0
+  #   margin_x": 8                # 候选字左右边距
+  #   margin_y": 8                # 候选字上下边距
+  #   hilite_padding": 8          # 候选字背景色色块高度
+  #   hilite_spacing": 3          # 序号和候选字之间的间隔
+  #   spacing": 10                # 不知道干嘛的，在weasel下好像没有效果
+  #   candidate_spacing": 12      # 候选字间隔
+  #   round_corner": 0            # 候选字背景色块圆角幅度

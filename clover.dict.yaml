@@ -1,0 +1,46 @@
+
+name: clover
+version: "1"
+sort: by_weight
+
+import_tables:
+  - ./dict/clover.base
+  - ./dict/clover.phrase
+  - ./dict/THUOCL_animal
+  - ./dict/THUOCL_caijing
+  - ./dict/THUOCL_car
+  - ./dict/THUOCL_chengyu
+  - ./dict/THUOCL_diming
+  - ./dict/THUOCL_food
+  - ./dict/THUOCL_IT
+  - ./dict/THUOCL_law
+  - ./dict/THUOCL_lishimingren
+  - ./dict/THUOCL_medical
+  - ./dict/THUOCL_poem
+  - ./dict/sogou_new_words
+  - ./dict/a_my_words
+  - ./dict/a_char_shape
+  - ./dict/luna_pinyin.anime
+  - ./dict/luna_pinyin.basis
+  - ./dict/luna_pinyin.chat
+  - ./dict/luna_pinyin.classical
+  - ./dict/luna_pinyin.cn_en
+  - ./dict/luna_pinyin.computer
+  - ./dict/luna_pinyin.daily
+  - ./dict/luna_pinyin.diet
+  - ./dict/luna_pinyin.game
+  - ./dict/luna_pinyin.gd
+  - ./dict/luna_pinyin.hanyu
+  - ./dict/luna_pinyin.history
+  - ./dict/luna_pinyin.idiom
+  - ./dict/luna_pinyin.moba
+  - ./dict/luna_pinyin.movie
+  - ./dict/luna_pinyin.music
+  - ./dict/luna_pinyin.name
+  - ./dict/luna_pinyin.net
+  - ./dict/luna_pinyin.poetry
+  - ./dict/luna_pinyin.practical
+  - ./dict/luna_pinyin.sougou
+  - ./dict/luna_pinyin.website
+  - ./dict/luna_pinyin.geo_info
+

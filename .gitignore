@@ -1,0 +1,8 @@
+# 这是一个注释
+
+# 忽略文件 test.md
+test.md
+.idea
+*.html
+node_modules
+*.bin
