@@ -7,6 +7,7 @@
   - [加入辅助码](#加入辅助码)
   - [加入编码反查](#加入编码反查)
 - [词库增强](#词库增强)
+- [图文介绍](#图文介绍)
 
 # Rime介绍
 
@@ -70,4 +71,38 @@ Rime 不是一种输入法。是从各种常见键盘输入法中提炼出来的
 这也是为什么部署比较慢的原因，整个词库大概 100M，但实际运行内存大约只占用了 50M 内存；Linux 下的搜狗大约占用了 600-700M 作用，CPU 偶尔还会飚一下，翻页查字时总是闪退，这也是我启用的原因；如果你的 rime 不好用，那肯定时词库不丰富，去下载词库就完了，不用担心内存问题，无论安装了多少词库，也不会比搜狗安装后占用的体积大
 
 > 注意：Ubuntu18.04 ＋ fcitx ＋ rime，每次部署完 rime 之后，fcitx 的内存就会溢出，不知道是 fcitx 的 Bug，还是 Rime 的 Bug，重启电脑即可解决，重启 Fcitx 输入法没用，必须重启电脑，fcitx 的内存溢出，仅仅当 rime 部署后才会出现，平时不会。
+
+# 图文介绍
+
+**双拼连续输入**  
+
+![1](https://user-images.githubusercontent.com/20679786/139221212-bf068bba-b391-42c8-99a4-5425013fc15d.png)
+
+**两种输入方案**  
+
+![2](https://user-images.githubusercontent.com/20679786/139221221-5ddd6c08-b434-4fe6-9ddc-b322d5f74ea9.png)
+
+**以小鹤双拼输入为主**   
+
+![3](https://user-images.githubusercontent.com/20679786/139221225-f0af8c39-f4c4-4222-b426-1fa7ca80e992.png)
+
+**单字输入方式辅助码快速输入，不翻页查询**  
+
+![4](https://user-images.githubusercontent.com/20679786/139221231-71257acb-c989-4aaa-a404-f3dc4754fd83.png)
+
+**辅助码只支持单子输入辅助**  
+
+![5](https://user-images.githubusercontent.com/20679786/139221239-f5763a2c-d84a-4d91-b525-4982eda9cf3f.png)
+
+**反查小鹤音形码**  
+
+![6](https://user-images.githubusercontent.com/20679786/139221244-3163b6b2-52ae-459e-b6bc-22f5c116399e.png)
+
+**小鹤双拼**  
+
+![小鹤双拼](https://user-images.githubusercontent.com/20679786/139221258-75bc872a-5c39-4a54-a3e0-a464ad1d43a3.png)
+
+**小鹤音形**  
+
+![小鹤音形](https://user-images.githubusercontent.com/20679786/139221267-53a38ee2-b708-4903-a13e-e954dda149c2.png)
 
