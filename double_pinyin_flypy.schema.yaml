@@ -49,14 +49,14 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " '"
   algebra:
     # 下面四行为了匹配辅助码
-    - derive/^(\w+);(\w)(\w)$/$1;$2$3/
-    - derive/^(\w+);(\w)(\w)$/$1;$2/
-    - derive/^(\w+);(\w)(\w)$/$1/
-    - abbrev/^(.{2});+$/$1/
+    # - derive/^(\w+);(\w)(\w)$/$1;$2$3/
+    # - derive/^(\w+);(\w)(\w)$/$1;$2/
+    # - derive/^(\w+);(\w)(\w)$/$1/
+    # - abbrev/^(.{2});+$/$1/
     # - erase/^xx$/
     - derive/^([jqxy])u$/$1v/
     # - derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
@@ -127,10 +127,10 @@ translator:
   #   - xform/([jqxy])v/$1u/
   #   - xform/([nl])v/$1ü/
 
-reverse_lookup:
-  dictionary: clover
-  prefix: "`"
-  suffix: "'"
+# reverse_lookup:
+#   dictionary: clover
+#   prefix: "`"
+#   suffix: "'"
 
 punctuator:
   import_preset: default
@@ -138,7 +138,7 @@ punctuator:
 key_binder:
   import_preset: default
 
-recognizer:
-  import_preset: default
-  patterns:  # 中文状态下, 输入`不会自动上屏, 需要屏蔽掉
-    reverse_lookup: "`[a-z]*'?$"
+# recognizer:
+#   import_preset: default
+#   patterns:  # 中文状态下, 输入`不会自动上屏, 需要屏蔽掉
+#     reverse_lookup: "`[a-z]*'?$"
