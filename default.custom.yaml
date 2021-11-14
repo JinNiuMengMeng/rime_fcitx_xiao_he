@@ -18,7 +18,7 @@ patch:
     - {accept: "=", send: Page_Down, when: composing}
     - {accept: "-", send: Page_Up, when: composing}
     - {accept: Control+period, toggle: ascii_punct, when: always}
-    - {accept: "Shift_L", toggle: commit_code, when: always}
+    # - {accept: "Shift_L", toggle: commit_code, when: always}
   ascii_composer:
     good_old_caps_lock: true
     switch_key:
