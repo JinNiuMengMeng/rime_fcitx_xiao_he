@@ -3,7 +3,7 @@
 #@/db_type	userdb
 #@/rime_version	1.2.9
 #@/tick	9419
-#@/user_id	dir
+#@/user_id	rime_fcitx_xiao_he
 a 	啊	c=75 d=1.03753 t=9419
 a a 	啊啊	c=1 d=4.11075e-13 t=9419
 a di 	阿迪	c=1 d=2.54193e-05 t=9419
@@ -14,6 +14,7 @@ a li 	阿里	c=2 d=8.93171e-09 t=9419
 a xu 	阿旭	c=2 d=0.000316069 t=9419
 ai 	爱	c=0 d=2.93958e-10 t=9419
 ai ge 	挨个	c=1 d=1.43406e-06 t=9419
+ai hao 	爱好	c=1 d=1 t=70
 ai zi liao 	爱资料	c=1 d=2.95431e-09 t=9419
 an 	俺	c=3 d=0.00238836 t=9419
 an ba 	俺爸	c=0 d=7.94804e-06 t=9419
@@ -22,9 +23,10 @@ an li 	案例	c=1 d=0.680451 t=9419
 an lia 	俺俩	c=1 d=1.71864e-18 t=9419
 an na ge shi hou 	俺那个时候	c=1 d=3.67367e-14 t=9419
 an niu 	按钮	c=2 d=4.18586e-07 t=9419
-an ta 	安踏	c=14 d=0.0402179 t=9419
+an ta 	安踏	c=14 d=0.0597501 t=9419
 an ta de 	安踏的	c=1 d=1.78725e-08 t=9419
 an ta tong yi 	安踏同意	c=1 d=4.38384e-05 t=9419
+an ta wen dang 	安踏文档	c=1 d=1 t=77
 an zhao 	按照	c=1 d=6.2277e-17 t=9419
 an zhuang 	安装	c=22 d=1.08995e-06 t=9419
 an zhuo 	安卓	c=1 d=8.01401e-14 t=9419
@@ -39,7 +41,7 @@ ba dian ba 	八点吧	c=1 d=2.14192e-20 t=9419
 ba dian ban 	八点半	c=1 d=0.0155297 t=9419
 ba gong 	罢工	c=1 d=7.99876e-21 t=9419
 ba ni 	把你	c=1 d=0.000804733 t=9419
-ba se 	巴色	c=1 d=1 t=142
+ba se 	巴色	c=1 d=7.16557e-21 t=9419
 ba wo 	把我	c=0 d=9.69259e-17 t=9419
 bai 	百	c=1 d=2.41796e-05 t=9419
 bai di 	白底	c=1 d=6.50731e-05 t=9419
@@ -66,21 +68,22 @@ ban li le 	办理了	c=1 d=1.35755e-08 t=9419
 ban qu 	搬去	c=0 d=9.71106e-10 t=9419
 ban tian 	半天	c=2 d=0.290835 t=9419
 bang 	帮	c=0 d=0.00250972 t=9419
-bang ni 	帮你	c=6 d=4.50381e-06 t=9419
+bang ni 	帮你	c=6 d=0.559898 t=9419
 bang ta men 	帮他们	c=3 d=0.104488 t=9419
 bang w 	帮我	c=1 d=0.427415 t=9419
 bang wo 	帮我	c=1 d=1.292e-14 t=9419
 bao 	包	c=4 d=0.316153 t=9419
 bao bao 	宝宝	c=1 d=1.40251e-09 t=9419
 bao biao 	报表	c=1 d=0.737123 t=9419
-bao cun 	保存	c=10 d=0.00300679 t=9419
+bao cun 	保存	c=10 d=0.470705 t=9419
 bao cun de shi hou 	保存的时候	c=1 d=6.47595e-07 t=9419
-bao cun jin du 	保存进度	c=1 d=4.48856e-18 t=9419
+bao cun jin du 	保存进度	c=1 d=0.603506 t=9419
 bao cuo 	报错	c=12 d=0.00925515 t=9419
 bao cuo le 	报错了	c=1 d=0.0930145 t=9419
 bao dao 	报导	c=0 d=5.42594e-15 t=9419
 bao dao de 	报导的	c=1 d=5.45314e-14 t=9419
 bao gao 	报告	c=1 d=0.00977834 t=9419
+bao ge 	饱嗝	c=1 d=1 t=17
 bao guo 	包裹	c=1 d=4.56586e-13 t=9419
 bao han 	包含	c=5 d=0.00124104 t=9419
 bao hen 	抱恨	c=1 d=0.000611253 t=9419
@@ -133,6 +136,7 @@ bian ji 	编辑	c=1 d=8.81118e-12 t=9419
 bian le 	变了	c=1 d=5.84953e-16 t=9419
 bian liang 	变量	c=2 d=8.04839e-15 t=9419
 bian ling dao le 	变领导了	c=1 d=0.0031354 t=9419
+bian man 	变慢	c=2 d=1.8825 t=120
 bian qian 	便签	c=1 d=2.92492e-09 t=9419
 bian xie 	编写	c=1 d=1.18999e-17 t=9419
 biao 	标	c=1 d=3.32407e-14 t=9419
@@ -141,6 +145,8 @@ biao da shi 	表达式	c=1 d=0.000997758 t=9419
 biao dan 	表单	c=1 d=2.45701e-17 t=9419
 biao dian 	标点	c=3 d=1.87667e-10 t=9419
 biao ge 	表格	c=4 d=0.995012 t=9419
+biao ji 	标记	c=0 d=0.1 t=164
+biao ji qing chu 	标记清除	c=1 d=1 t=165
 biao jie gou 	表结构	c=2 d=0.694197 t=9419
 biao jie kou she ji 	表接口设计	c=1 d=0.588605 t=9419
 biao ming 	表名	c=2 d=3.95844e-10 t=9419
@@ -161,11 +167,13 @@ bie zhen 	别针	c=1 d=5.0243e-21 t=9419
 bin 	斌	c=2 d=0.941765 t=9419
 bing 	并	c=4 d=0.50409 t=9419
 bing bu shi 	并不是	c=1 d=6.11357e-06 t=9419
+bing fa 	并发	c=1 d=1.06561 t=139
+bing fa qing chu shi 	并发清除时	c=1 d=1 t=140
 bing sheng 	并生	c=0 d=1.14906e-18 t=9419
 bing sheng cheng 	并生成	c=1 d=1.15482e-17 t=9419
 bing xing 	并行	c=2 d=0.0218184 t=9419
 bing yun xing 	并运行	c=1 d=1.20798e-17 t=9419
-bo fang 	播放	c=2 d=1.9802 t=131
+bo fang 	播放	c=2 d=1.34299e-20 t=9419
 bo ke 	博客	c=4 d=1.34997e-08 t=9419
 bo li 	玻璃	c=2 d=5.90002e-16 t=9419
 bu 	不	c=6 d=0.144348 t=9419
@@ -206,7 +214,7 @@ bu hai shi 	不还是	c=1 d=1.37498e-11 t=9419
 bu hao 	不好	c=1 d=0.0713613 t=9419
 bu hao chi 	不好吃	c=2 d=8.44527e-13 t=9419
 bu he shi 	不合适	c=1 d=1.88343e-07 t=9419
-bu hui 	不会	c=1 d=0.0925506 t=9419
+bu hui 	不会	c=2 d=1.23763 t=9419
 bu hui ba 	不会吧	c=2 d=7.28772e-14 t=9419
 bu hui die 	不会跌	c=1 d=2.07254e-15 t=9419
 bu hui zai 	不会再	c=1 d=1.06789e-08 t=9419
@@ -238,7 +246,7 @@ bu pian yi 	不便宜	c=1 d=0.00308872 t=9419
 bu qi 	不起	c=0 d=6.93112e-13 t=9419
 bu qing 	不轻	c=1 d=0.882497 t=9419
 bu qing chu 	不清楚	c=0 d=1.72996e-08 t=9419
-bu qu fen 	不区分	c=1 d=1 t=72
+bu qu fen 	不区分	c=1 d=5.04949e-21 t=9419
 bu qu le 	不去了	c=1 d=6.48367e-21 t=9419
 bu ran 	不然	c=4 d=2.94586e-13 t=9419
 bu rang 	不让	c=2 d=0.0230521 t=9419
@@ -334,7 +342,7 @@ can shu 	参数	c=11 d=1.55084e-07 t=9419
 can ting 	餐厅	c=0 d=0.000778933 t=9419
 can ting ba 	餐厅吧	c=1 d=0.00782838 t=9419
 cang ku 	仓库	c=2 d=0.0208263 t=9419
-cao zuo 	操作	c=12 d=0.00151135 t=9419
+cao zuo 	操作	c=12 d=0.597501 t=9419
 cao zuo zhi nan 	操作指南	c=3 d=1.60443e-17 t=9419
 ce 	测	c=0 d=2.04488e-05 t=9419
 ce guo 	侧过	c=0 d=9.78001e-05 t=9419
@@ -349,7 +357,7 @@ ce shi lei 	测试类	c=2 d=2.41608e-17 t=9419
 ce yi xia ba 	测一下吧	c=1 d=0.000205513 t=9419
 ceng 	层	c=1 d=5.0933e-05 t=9419
 ceng ci 	层次	c=1 d=1.85092e-08 t=9419
-ceng ji 	层级	c=2 d=1.94176 t=109
+ceng ji 	层级	c=2 d=1.17974e-20 t=9419
 cha 	差	c=1 d=4.27779e-11 t=9419
 cha 	插	c=0 d=2.57632e-17 t=9419
 cha 	查	c=3 d=3.82145e-06 t=9419
@@ -361,7 +369,7 @@ cha bu shang hua 	插不上话	c=1 d=2.58923e-16 t=9419
 cha dao 	查到	c=1 d=0.000534061 t=9419
 cha dao le 	查到了	c=1 d=0.000510561 t=9419
 cha de 	查的	c=2 d=2.85319e-11 t=9419
-cha jian 	插件	c=12 d=1.71595e-08 t=9419
+cha jian 	插件	c=12 d=0.522046 t=9419
 cha ju 	差距	c=2 d=0.000286767 t=9419
 cha kan 	查看	c=12 d=0.0422796 t=9419
 cha xun 	查询	c=2 d=0.857746 t=9419
@@ -374,9 +382,10 @@ chan 	产	c=1 d=0.0395575 t=9419
 chan dao 	禅道	c=4 d=0.000372334 t=9419
 chan pin 	产品	c=2 d=0.000352786 t=9419
 chan quan 	产权	c=1 d=1.7928e-15 t=9419
+chan sheng 	产生	c=2 d=2.0783 t=159
 chang 	长	c=3 d=4.41762e-11 t=9419
 chang dian 	长点	c=1 d=3.58919e-05 t=9419
-chang fa 	长发	c=1 d=1 t=141
+chang fa 	长发	c=1 d=7.12983e-21 t=9419
 chang jian 	常见	c=4 d=1.28061e-10 t=9419
 chang jian pai xu 	常见排序	c=1 d=1.35778e-10 t=9419
 chang liang 	常量	c=1 d=1.25967e-10 t=9419
@@ -411,8 +420,10 @@ cheng gong le 	成功了	c=4 d=3.75227e-08 t=9419
 cheng gong le ma 	成功了吗	c=1 d=1.06531e-09 t=9419
 cheng ke 	乘客	c=1 d=6.64781e-21 t=9419
 cheng li 	成立	c=1 d=4.39893e-16 t=9419
+cheng sheng 	乘胜	c=1 d=1 t=158
 cheng shi 	城市	c=1 d=0.0104099 t=9419
-cheng xu 	程序	c=1 d=1 t=57
+cheng xu 	程序	c=1 d=0.083527 t=9419
+cheng xu xu yao 	程序需要	c=1 d=1 t=144
 cheng xu yuan 	程序员	c=1 d=0.965605 t=9419
 cheng zhang 	成长	c=10 d=0.000327915 t=9419
 cheng zhang mu biao 	成长目标	c=3 d=1.45253e-06 t=9419
@@ -428,7 +439,7 @@ chong fu 	重复	c=0 d=0.00319048 t=9419
 chong lai 	重来	c=1 d=9.23431e-05 t=9419
 chong qi 	重启	c=2 d=3.46146e-10 t=9419
 chong qi le 	重启了	c=1 d=4.41872e-10 t=9419
-chong ru 	重入	c=1 d=1 t=21
+chong ru 	重入	c=1 d=3.91293e-21 t=9419
 chong tu 	冲突	c=1 d=0.000420107 t=9419
 chong xie 	重写	c=6 d=1.42063e-10 t=9419
 chong xie le 	重写了	c=1 d=8.48904e-15 t=9419
@@ -481,11 +492,12 @@ chuang jian liu cheng 	创建流程	c=1 d=4.61331e-17 t=9419
 chuang jian ren 	创建人	c=1 d=1.33411e-09 t=9419
 chuang jian shi jian 	创建时间	c=2 d=1.28823e-09 t=9419
 chuang jian shi li 	创建实例	c=1 d=5.14887e-15 t=9419
-chuang jian xian cheng 	创建线程	c=1 d=1 t=12
+chuang jian xian cheng 	创建线程	c=1 d=3.74075e-21 t=9419
 chuang ye 	创业	c=1 d=4.35442e-14 t=9419
 chui zi 	锤子	c=1 d=3.60215e-18 t=9419
 chun 	纯	c=1 d=0.951229 t=9419
 chun cui 	纯粹	c=1 d=2.79526e-05 t=9419
+chun shu 	纯属	c=1 d=1 t=69
 chun shu zi 	纯数字	c=1 d=0.000649051 t=9419
 ci 	次	c=1 d=3.63526e-08 t=9419
 ci hui 	词汇	c=2 d=2.14988e-09 t=9419
@@ -525,8 +537,8 @@ da jian bi ji 	搭建笔记	c=1 d=5.63088e-09 t=9419
 da jie 	打结	c=1 d=2.14527e-09 t=9419
 da kai 	打开	c=9 d=5.83662e-08 t=9419
 da lao 	大佬	c=1 d=0.131085 t=9419
-da lao lu guo 	大佬路过	c=1 d=1 t=61
-da liang 	大量	c=1 d=1 t=33
+da lao lu guo 	大佬路过	c=1 d=4.77927e-21 t=9419
+da liang 	大量	c=2 d=1.85586 t=9419
 da que dian 	大缺点	c=1 d=2.30004e-05 t=9419
 da shu ju 	大数据	c=1 d=2.44351e-11 t=9419
 da suan 	打算	c=3 d=3.93667e-13 t=9419
@@ -537,6 +549,7 @@ da xue 	大学	c=9 d=0.0369399 t=9419
 da yi 	大意	c=1 d=0.163654 t=9419
 da yu 	大于	c=1 d=1.27649e-19 t=9419
 da yu 	大雨	c=1 d=1.64301e-18 t=9419
+dai 	代	c=0 d=0.1 t=177
 dai 	带	c=1 d=6.74024e-07 t=9419
 dai 	待	c=3 d=0.0027675 t=9419
 dai 	贷	c=0 d=1.94389e-19 t=9419
@@ -573,7 +586,7 @@ dan yuan ge 	单元格	c=1 d=6.13252e-13 t=9419
 dang 	当	c=0 d=3.06903e-17 t=9419
 dang chang 	当场	c=1 d=3.46692e-09 t=9419
 dang qian 	当前	c=2 d=1.02982e-14 t=9419
-dang qian zhou qi 	当前周期	c=1 d=1 t=86
+dang qian zhou qi 	当前周期	c=1 d=5.41562e-21 t=9419
 dang ran 	当然	c=1 d=7.74232e-20 t=9419
 dang ran xin 	当然信	c=1 d=3.08441e-16 t=9419
 dang shi 	当时	c=2 d=1.71651e-15 t=9419
@@ -598,7 +611,7 @@ dao shou 	到手	c=1 d=6.48257e-19 t=9419
 dao wai 	到外	c=2 d=8.45096e-13 t=9419
 dao wai 	岛外	c=1 d=1.23494e-12 t=9419
 dao xian zai 	到现在	c=2 d=2.44226e-05 t=9419
-dao zhi 	导致	c=2 d=0.316826 t=9419
+dao zhi 	导致	c=2 d=0.882497 t=9419
 dao zhi de 	导致的	c=1 d=7.58256e-10 t=9419
 de 	得	c=7 d=0.290541 t=9419
 de 	的	c=398 d=7.74726 t=9419
@@ -611,13 +624,13 @@ de ma 	的吗	c=1 d=0.00022941 t=9419
 de shi hou 	的时候	c=1 d=6.4169e-05 t=9419
 de shi jian 	的时间	c=0 d=6.64781e-22 t=9419
 deng 	等	c=6 d=0.00229965 t=9419
-deng dai 	等待	c=1 d=1 t=45
+deng dai 	等待	c=1 d=4.41182e-21 t=9419
 deng dao 	等到	c=2 d=8.69215e-13 t=9419
 deng deng 	等等	c=1 d=3.27236e-06 t=9419
 deng hao 	等号	c=1 d=1.73054e-11 t=9419
 deng le 	等了	c=1 d=5.59023e-12 t=9419
 deng lu 	登录	c=7 d=0.0759572 t=9419
-deng lu ren 	登录人	c=1 d=1 t=89
+deng lu ren 	登录人	c=1 d=5.49746e-21 t=9419
 deng ni you 	等你有	c=1 d=2.76218e-12 t=9419
 deng wo 	等我	c=1 d=2.82383e-07 t=9419
 deng xia 	等下	c=1 d=1.62921e-08 t=9419
@@ -660,7 +673,7 @@ dian bao 	电报	c=1 d=3.03591e-06 t=9419
 dian bu 	点不	c=0 d=7.31927e-07 t=9419
 dian bu chu lai 	点不出来	c=1 d=7.35596e-06 t=9419
 dian chi 	电池	c=1 d=3.52051e-13 t=9419
-dian dan 	点单	c=0 d=0.1 t=68
+dian dan 	点单	c=0 d=4.9495e-22 t=9419
 dian dian 	点点	c=1 d=2.37662e-08 t=9419
 dian dong 	电动	c=1 d=1.03918e-11 t=9419
 dian dong che 	电动车	c=3 d=1.06378e-12 t=9419
@@ -677,7 +690,7 @@ dian nao shang 	电脑上	c=0 d=3.08284e-11 t=9419
 dian nao zi dai 	电脑自带	c=1 d=1.33366e-05 t=9419
 dian pu 	店铺	c=3 d=0.0260626 t=9419
 dian shi 	电视	c=1 d=0.909373 t=9419
-dian shi tai 	电视台	c=1 d=1 t=130
+dian shi tai 	电视台	c=1 d=6.74828e-21 t=9419
 dian yi 	点一	c=0 d=1.72696e-17 t=9419
 dian yi dian 	点一点	c=2 d=0.0012684 t=9419
 dian ying 	电影	c=1 d=6.65875e-08 t=9419
@@ -742,7 +755,7 @@ du che 	堵车	c=1 d=3.00928e-20 t=9419
 du li 	独立	c=1 d=4.76569e-17 t=9419
 du li chu qu 	独立出去	c=1 d=4.78919e-16 t=9419
 du si 	堵死	c=0 d=1.79744e-17 t=9419
-du suo 	读锁	c=1 d=1 t=23
+du suo 	读锁	c=1 d=3.95226e-21 t=9419
 du zi 	肚子	c=1 d=2.8175e-10 t=9419
 duan 	短	c=0 d=2.53883e-21 t=9419
 duan 	端	c=0 d=2.93149e-07 t=9419
@@ -754,6 +767,7 @@ dui a 	对啊	c=2 d=0.00203474 t=9419
 dui ba 	对吧	c=1 d=6.30619e-18 t=9419
 dui bi 	对比	c=6 d=0.121238 t=9419
 dui duan 	对端	c=0 d=2.93149e-07 t=9419
+dui qi 	对齐	c=1 d=1 t=37
 dui xiang 	对象	c=7 d=0.0628135 t=9419
 dui ying 	对应	c=15 d=0.00381139 t=9419
 dui ying gou zao qi 	对应构造器	c=1 d=4.56663e-15 t=9419
@@ -783,7 +797,7 @@ e xin si le 	恶心死了	c=1 d=9.05145e-05 t=9419
 en 	嗯	c=2 d=1.21028e-10 t=9419
 en 	恩	c=6 d=0.00843755 t=9419
 en en 	嗯嗯	c=3 d=0.00200924 t=9419
-er 	二	c=8 d=0.259409 t=9419
+er 	二	c=8 d=0.416862 t=9419
 er 	儿	c=2 d=0.0852144 t=9419
 er 	而	c=1 d=4.94698e-15 t=9419
 er qie 	而且	c=7 d=0.0835981 t=9419
@@ -791,7 +805,7 @@ er qie dou 	而且都	c=0 d=2.0772e-13 t=9419
 er qie dou shi 	而且都是	c=1 d=2.08761e-12 t=9419
 er qie mai de 	而且买的	c=1 d=0.00215492 t=9419
 er shi 	二十	c=1 d=3.70969e-13 t=9419
-er shi 	儿时	c=1 d=1 t=123
+er shi 	儿时	c=1 d=6.51617e-21 t=9419
 er shi gong li 	二十公里	c=1 d=3.7947e-13 t=9419
 er yi 	而已	c=3 d=1.67861e-05 t=9419
 er;je 	铒	c=2 d=1.96042 t=9419
@@ -804,7 +818,7 @@ fa chu lai 	发出来	c=1 d=0.00082099 t=9419
 fa dao 	发到	c=3 d=0.382683 t=9419
 fa de 	发的	c=2 d=3.45856e-10 t=9419
 fa dian 	发电	c=1 d=1.34775e-11 t=9419
-fa fang 	发放	c=1 d=1 t=54
+fa fang 	发放	c=1 d=4.61489e-21 t=9419
 fa gei 	发给	c=3 d=8.44312e-05 t=9419
 fa gei wo 	发给我	c=2 d=0.00010622 t=9419
 fa hao 	发好	c=0 d=6.41916e-22 t=9419
@@ -823,6 +837,7 @@ fan cha 	反查	c=2 d=1.98012 t=9419
 fan dian 	返点	c=1 d=1.71036e-20 t=9419
 fan hui 	返回	c=3 d=8.83434e-06 t=9419
 fan kui 	反馈	c=1 d=1.76184e-16 t=9419
+fan nao 	烦恼	c=0 d=0.1 t=64
 fan qiang 	翻墙	c=4 d=1.00988e-18 t=9419
 fan wei 	范围	c=1 d=2.17843e-13 t=9419
 fan wei shan chu 	范围删除	c=1 d=1.58677e-20 t=9419
@@ -854,7 +869,7 @@ fang zi 	房子	c=9 d=0.0138808 t=9419
 fei 	非	c=1 d=0.0551563 t=9419
 fei chang 	非常	c=1 d=1.82901e-15 t=9419
 fei chang man 	非常慢	c=1 d=3.10578e-09 t=9419
-fei gong ping suo 	非公平锁	c=1 d=1 t=25
+fei gong ping suo 	非公平锁	c=1 d=3.99198e-21 t=9419
 fei jin 	费劲	c=0 d=4.46465e-15 t=9419
 fei jing tai 	非静态	c=4 d=2.59328e-14 t=9419
 fei jing tai dai ma kuai 	非静态代码块	c=1 d=4.54386e-15 t=9419
@@ -864,12 +879,13 @@ fei yao 	非要	c=1 d=1.32471e-14 t=9419
 fei yi ban de gan jue 	飞一般的感觉	c=1 d=2.79859e-19 t=9419
 fei yong 	费用	c=1 d=1.79805e-20 t=9419
 fen 	份	c=1 d=1.00604e-12 t=9419
-fen 	分	c=6 d=4.05796e-08 t=9419
+fen 	分	c=6 d=0.099005 t=9419
 fen bian 	分辨	c=0 d=1.12378e-21 t=9419
 fen bian lv 	分辨率	c=2 d=2.28731e-20 t=9419
 fen bian lve 	分辨略	c=1 d=1.12942e-20 t=9419
 fen bu qing 	分不清	c=1 d=5.17556e-17 t=9419
 fen chu 	分出	c=1 d=4.8132e-16 t=9419
+fen dai shou ji 	分代收集	c=1 d=1 t=178
 fen ge 	分割	c=2 d=1.68724e-07 t=9419
 fen ge 	分隔	c=6 d=0.250326 t=9419
 fen ge fu 	分隔符	c=1 d=0.00096344 t=9419
@@ -892,6 +908,8 @@ feng tian 	丰田	c=1 d=1.47137e-14 t=9419
 feng zhuang 	封装	c=1 d=4.21338e-09 t=9419
 fou 	否	c=2 d=0.00135244 t=9419
 fu 	父	c=1 d=2.90133e-17 t=9419
+fu dong 	浮动	c=0 d=0.1 t=130
+fu dong la ji 	浮动垃圾	c=1 d=1 t=131
 fu hao 	符号	c=5 d=0.0578244 t=9419
 fu he 	符合	c=2 d=0.0113408 t=9419
 fu jian 	附件	c=1 d=5.3905e-19 t=9419
@@ -924,7 +942,7 @@ gai de 	改的	c=0 d=9.59778e-19 t=9419
 gai de ma 	改的吗	c=1 d=9.64589e-18 t=9419
 gai diao 	改掉	c=0 d=4.91979e-10 t=9419
 gai diao le 	改掉了	c=1 d=4.94445e-09 t=9419
-gai dui xiang 	该对象	c=1 d=1 t=51
+gai dui xiang 	该对象	c=1 d=4.54618e-21 t=9419
 gai ge 	改个	c=1 d=3.36732e-19 t=9419
 gai guo 	改过	c=1 d=9.45489e-18 t=9419
 gai hao 	改好	c=0 d=8.92884e-22 t=9419
@@ -951,11 +969,11 @@ gang gang hao 	刚刚好	c=1 d=5.57296e-05 t=9419
 gang hao 	刚好	c=2 d=0.120671 t=9419
 gang kai shi 	刚开始	c=1 d=3.51142e-12 t=9419
 gang mai guo 	刚买过	c=1 d=2.22895e-18 t=9419
-gang qin 	钢琴	c=2 d=1.99005 t=138
+gang qin 	钢琴	c=2 d=1.39775e-20 t=9419
 gang shang xian 	刚上线	c=1 d=6.08825e-16 t=9419
 gang wei 	岗位	c=12 d=1.93345 t=9419
 gao 	搞	c=2 d=0.571209 t=9419
-gao 	高	c=1 d=0.000765671 t=9419
+gao 	高	c=1 d=0.489192 t=9419
 gao bu 	高不	c=0 d=1.11241e-19 t=9419
 gao bu ding 	搞不定	c=0 d=1.67449e-07 t=9419
 gao bu qing chu 	搞不清楚	c=4 d=0.00290884 t=9419
@@ -985,7 +1003,7 @@ ge shuang yan pi 	割双眼皮	c=1 d=2.50622e-15 t=9419
 ge shui 	个税	c=1 d=0.0129068 t=9419
 ge yue 	个月	c=3 d=1.04432e-08 t=9419
 ge zhong 	各种	c=3 d=3.87483e-06 t=9419
-ge zi 	各自	c=1 d=1 t=113
+ge zi 	各自	c=1 d=6.19837e-21 t=9419
 ge zi 	格子	c=1 d=3.43534e-19 t=9419
 gei 	给	c=6 d=0.0132975 t=9419
 gei bu gei 	给不给	c=1 d=7.81747e-16 t=9419
@@ -1010,6 +1028,7 @@ gen zhe 	跟着	c=1 d=0.002138 t=9419
 gen zhe qi ta ren 	跟着其他人	c=1 d=4.53999e-05 t=9419
 gen zong 	跟踪	c=1 d=0.000206543 t=9419
 geng 	更	c=1 d=2.58343e-19 t=9419
+geng da 	更大	c=0 d=0.1 t=123
 geng hao 	更好	c=2 d=1.06621e-11 t=9419
 geng hao de 	更好的	c=1 d=5.45221e-12 t=9419
 geng huan 	更换	c=1 d=1.5816e-11 t=9419
@@ -1030,7 +1049,7 @@ gong li 	公里	c=7 d=0.0068106 t=9419
 gong lu che 	公路车	c=1 d=3.05186e-13 t=9419
 gong neng 	功能	c=16 d=0.766391 t=9419
 gong neng xu qiu 	功能需求	c=1 d=0.162838 t=9419
-gong ping suo 	公平锁	c=1 d=1.09753 t=29
+gong ping suo 	公平锁	c=1 d=4.46982e-21 t=9419
 gong shi 	公式	c=1 d=5.71598e-09 t=9419
 gong shi 	公示	c=1 d=5.49185e-09 t=9419
 gong si 	公司	c=22 d=0.0877704 t=9419
@@ -1039,8 +1058,9 @@ gong you duo shao 	共有多少	c=1 d=1.86083e-12 t=9419
 gong yuan 	公园	c=1 d=1.40061e-12 t=9419
 gong zi 	工资	c=3 d=9.75642e-05 t=9419
 gong zi liu 	工资刘	c=1 d=5.22757e-17 t=9419
-gong zuo 	工作	c=9 d=0.000811446 t=9419
+gong zuo 	工作	c=9 d=0.0499074 t=9419
 gong zuo liu 	工作流	c=16 d=3.20032 t=9419
+gong zuo nei cun 	工作内存	c=1 d=1 t=41
 gong zuo ri 	工作日	c=1 d=2.48601e-08 t=9419
 gou 	够	c=1 d=1.15443e-13 t=9419
 gou cheng 	构成	c=1 d=1.1804e-10 t=9419
@@ -1055,7 +1075,7 @@ gu 	股	c=5 d=8.49991e-05 t=9419
 gu 	鼓	c=1 d=1.46782e-15 t=9419
 gu ding 	固定	c=2 d=6.77397e-07 t=9419
 gu ding jia ban 	固定加班	c=1 d=3.23198e-07 t=9419
-gu ge 	谷歌	c=2 d=1.98301e-09 t=9419
+gu ge 	谷歌	c=2 d=0.95424 t=9419
 gu ji 	估计	c=11 d=0.45612 t=9419
 gu ji ke yi 	估计可以	c=1 d=3.4681e-13 t=9419
 gu ji mei shen me 	估计没什么	c=1 d=5.70511e-16 t=9419
@@ -1095,9 +1115,9 @@ gui fan 	规范	c=3 d=1.20424e-10 t=9419
 gui mo 	规模	c=1 d=0.0115047 t=9419
 gui shu 	归属	c=0 d=4.26965e-19 t=9419
 gui shu di 	归属地	c=1 d=4.29105e-18 t=9419
-gui ze 	规则	c=2 d=1.70394e-05 t=9419
+gui ze 	规则	c=2 d=0.436049 t=9419
 gui zi 	柜子	c=1 d=7.9084e-05 t=9419
-gun dong tiao 	滚动条	c=3 d=2.45703e-12 t=9419
+gun dong tiao 	滚动条	c=3 d=0.511709 t=9419
 guo 	过	c=6 d=0.557162 t=9419
 guo chan che 	国产车	c=1 d=8.4876e-13 t=9419
 guo cheng 	过程	c=5 d=1.84032e-14 t=9419
@@ -1140,6 +1160,7 @@ hai shi 	还是	c=23 d=0.975746 t=9419
 hai wan 	海湾	c=1 d=1.39239e-12 t=9419
 hai xiang 	海翔	c=1 d=1.26336e-15 t=9419
 hai xiang 	还想	c=1 d=6.70777e-09 t=9419
+hai xu yao 	还需要	c=1 d=1 t=172
 hai yao 	还要	c=1 d=1.68317e-08 t=9419
 hai yi wei 	还以为	c=0 d=3.93255e-22 t=9419
 hai yong 	还用	c=0 d=0.000160441 t=9419
@@ -1188,6 +1209,7 @@ he dao 	喝到	c=1 d=4.05934e-12 t=9419
 he de 	喝的	c=1 d=4.34127e-12 t=9419
 he de duo dian 	喝的多点	c=1 d=4.0391e-12 t=9419
 he huo ren 	合伙人	c=1 d=0.00323088 t=9419
+he ji 	合集	c=1 d=1 t=34
 he li 	合理	c=0 d=0.0343009 t=9419
 he wo men 	和我们	c=1 d=0.00013845 t=9419
 he zhi 	何止	c=1 d=1.30476e-12 t=9419
@@ -1217,6 +1239,8 @@ hong bao 	红包	c=1 d=1.21007e-08 t=9419
 hong lv deng 	红绿灯	c=1 d=3.06059e-13 t=9419
 hong lv lan 	红绿蓝	c=1 d=2.58747e-08 t=9419
 hou 	后	c=6 d=0.331826 t=9419
+hou bei 	后备	c=0 d=0.1 t=149
+hou bei yu an 	后备预案	c=1 d=1 t=150
 hou duan 	后端	c=11 d=0.828967 t=9419
 hou lai 	后来	c=2 d=1.25802e-15 t=9419
 hou men 	后门	c=1 d=1.66728e-14 t=9419
@@ -1257,17 +1281,18 @@ huan huan 	欢欢	c=2 d=0.000856067 t=9419
 huan jie 	环节	c=2 d=5.61167e-17 t=9419
 huan jing 	环境	c=15 d=1.07235 t=9419
 huan qing 	还清	c=1 d=1.17531e-18 t=9419
-huan xing 	唤醒	c=1 d=1 t=55
+huan xing 	唤醒	c=1 d=4.63802e-21 t=9419
 huan yuan 	还原	c=1 d=8.77171e-18 t=9419
 huang 	黄	c=1 d=0.0968105 t=9419
 huang bin 	煌彬	c=3 d=0.00346494 t=9419
-hui 	会	c=17 d=0.216571 t=9419
+hui 	会	c=17 d=0.778801 t=9419
 hui 	慧	c=1 d=0.00118265 t=9419
 hui ba 	会把	c=1 d=0.0466538 t=9419
 hui bang ni 	会帮你	c=1 d=1.42691e-06 t=9419
 hui bi jiao 	会比较	c=1 d=6.31606e-07 t=9419
 hui bu hui 	会不会	c=2 d=4.93644e-19 t=9419
-hui chan sheng 	会产生	c=1 d=1 t=42
+hui chan sheng 	会产生	c=1 d=0.941765 t=9419
+hui dao zhi 	会导致	c=2 d=1.88692 t=117
 hui er 	会儿	c=0 d=1.61855e-19 t=9419
 hui fa 	会发	c=0 d=2.31755e-07 t=9419
 hui fa song 	会发送	c=1 d=2.32917e-06 t=9419
@@ -1281,7 +1306,9 @@ hui lai 	回来	c=2 d=1.55324e-05 t=9419
 hui peng 	慧鹏	c=1 d=4.93504e-16 t=9419
 hui qu 	回去	c=1 d=1.84535e-18 t=9419
 hui se 	灰色	c=1 d=1.97522e-08 t=9419
+hui shou 	回收	c=1 d=1 t=116
 hui tu 	绘图	c=1 d=2.867e-09 t=9419
+hui you 	会有	c=1 d=1 t=111
 hui yuan 	会员	c=0 d=0.00028799 t=9419
 hui yuan fei 	会员费	c=1 d=0.00298248 t=9419
 hui zhan 	会展	c=0 d=2.00576e-13 t=9419
@@ -1334,7 +1361,7 @@ ji jin 	基金	c=1 d=0.00211225 t=9419
 ji ke 	即可	c=5 d=1.03592e-07 t=9419
 ji lei 	积累	c=5 d=0.000599149 t=9419
 ji lu 	记录	c=10 d=0.0962765 t=9419
-ji lu le 	记录了	c=1 d=1 t=122
+ji lu le 	记录了	c=1 d=6.48367e-21 t=9419
 ji mao qian 	几毛钱	c=1 d=1.90366e-15 t=9419
 ji neng 	技能	c=1 d=5.71501e-07 t=9419
 ji nian 	几年	c=1 d=0.000156885 t=9419
@@ -1403,7 +1430,7 @@ jian kong zhe 	监控者	c=1 d=2.19995e-11 t=9419
 jian li 	简历	c=1 d=3.41414e-05 t=9419
 jian qian 	减签	c=4 d=0.246737 t=9419
 jian rong 	兼容	c=1 d=1.45697e-16 t=9419
-jian tou 	箭头	c=3 d=2.0822e-11 t=9419
+jian tou 	箭头	c=3 d=0.524663 t=9419
 jian xia 	见下	c=0 d=4.3522e-09 t=9419
 jian xia mian 	见下面	c=1 d=4.37401e-08 t=9419
 jian xie xing 	间歇性	c=2 d=4.00879e-18 t=9419
@@ -1412,6 +1439,7 @@ jian yi ge 	建一个	c=2 d=1.08436e-06 t=9419
 jiang 	姜	c=10 d=2.13444e-15 t=9419
 jiang 	将	c=7 d=0.537485 t=9419
 jiang dai ma 	将代码	c=1 d=0.150318 t=9419
+jiang di 	降低	c=1 d=1 t=98
 jiang qi 	将其	c=1 d=4.72849e-13 t=9419
 jiang shang 	将上	c=0 d=4.50722e-09 t=9419
 jiang shang mian 	将上面	c=1 d=4.52981e-08 t=9419
@@ -1443,11 +1471,11 @@ jie gou 	结构	c=5 d=1.24533 t=9419
 jie gou tu 	结构图	c=1 d=1.16865e-10 t=9419
 jie guo 	结果	c=10 d=0.0173609 t=9419
 jie jie 	姐姐	c=1 d=8.25948e-16 t=9419
-jie jue 	解决	c=4 d=1.61692e-06 t=9419
+jie jue 	解决	c=4 d=0.562705 t=9419
 jie kou 	接口	c=25 d=2.67906 t=9419
 jie kou she ji 	接口设计	c=0 d=0.0585669 t=9419
 jie mian 	界面	c=1 d=4.66777e-08 t=9419
-jie mu 	节目	c=1 d=1 t=126
+jie mu 	节目	c=1 d=6.61465e-21 t=9419
 jie qi 	解气	c=1 d=1.98614e-14 t=9419
 jie san 	解散	c=1 d=4.0169e-06 t=9419
 jie shao 	介绍	c=5 d=0.00121259 t=9419
@@ -1471,7 +1499,7 @@ jin bu qu 	进不去	c=1 d=5.14624e-09 t=9419
 jin cheng 	进程	c=3 d=2.81023e-09 t=9419
 jin chu shi hua 	仅初始化	c=1 d=2.45025e-14 t=9419
 jin di 	金地	c=1 d=1.99128e-15 t=9419
-jin du 	进度	c=5 d=1.32954e-05 t=9419
+jin du 	进度	c=5 d=0.472764 t=9419
 jin ji 	紧急	c=1 d=2.26618e-07 t=9419
 jin jin 	仅仅	c=3 d=0.954264 t=9419
 jin liang 	尽量	c=1 d=0.00153752 t=9419
@@ -1487,7 +1515,7 @@ jin tian du si le 	今天堵死了	c=1 d=1.80645e-16 t=9419
 jin tian jiu 	进天就	c=1 d=0.000739157 t=9419
 jin tian you 	今天有	c=1 d=1.63482e-18 t=9419
 jin xing 	禁行	c=1 d=4.17288e-13 t=9419
-jin xing 	进行	c=2 d=2.11158e-07 t=9419
+jin xing 	进行	c=2 d=1.69297 t=9419
 jin xing gong zuo liu 	进行工作流	c=1 d=5.35991e-17 t=9419
 jin xing yan zheng 	进行验证	c=1 d=2.11808e-06 t=9419
 jin xing zhong 	进行中	c=1 d=0.000122182 t=9419
@@ -1530,6 +1558,7 @@ jiu gong ge 	九宫格	c=1 d=0.937067 t=9419
 jiu hao 	就好	c=1 d=0.0118245 t=9419
 jiu hao le 	就好了	c=1 d=6.59196e-10 t=9419
 jiu hui 	就会	c=1 d=6.16326e-13 t=9419
+jiu hui chu xian 	就会出现	c=1 d=1 t=145
 jiu jiu 	九九	c=1 d=0.00132658 t=9419
 jiu jiu 	舅舅	c=0 d=0.000115923 t=9419
 jiu jiu tuan gou 	九九团购	c=1 d=0.0015648 t=9419
@@ -1632,7 +1661,7 @@ kan lai 	看来	c=4 d=0.000127806 t=9419
 kan le 	看了	c=2 d=3.3466e-05 t=9419
 kan ni 	看你	c=1 d=0.00690852 t=9419
 kan qi lai 	看起来	c=1 d=0.0657047 t=9419
-kan qi lai hen shu fu 	看起来很舒服	c=1 d=1 t=60
+kan qi lai hen shu fu 	看起来很舒服	c=1 d=4.75543e-21 t=9419
 kan ri zhi 	看日志	c=1 d=4.30289e-21 t=9419
 kan ta 	看他	c=1 d=2.59373e-07 t=9419
 kan xia 	看下	c=1 d=3.4153e-09 t=9419
@@ -1658,7 +1687,7 @@ ke neng 	可能	c=5 d=0.775539 t=9419
 ke neng bu jia 	可能不加	c=1 d=7.16069e-13 t=9419
 ke neng ji cuo le 	可能记错了	c=1 d=3.17727e-12 t=9419
 ke neng shi 	可能是	c=4 d=0.84059 t=9419
-ke yi 	可以	c=44 d=0.683861 t=9419
+ke yi 	可以	c=44 d=1 t=9419
 ke yi a 	可以啊	c=1 d=0.000978001 t=9419
 ke yi ba 	可以把	c=1 d=0.0308074 t=9419
 ke yi can kao 	可以参考	c=1 d=6.39823e-12 t=9419
@@ -1671,12 +1700,14 @@ ke yi shi 	可以使	c=1 d=2.63427e-13 t=9419
 ke yi shi 	可以是	c=1 d=8.27381e-08 t=9419
 ke yi shi duo ge 	可以是多个	c=1 d=8.31529e-07 t=9419
 ke yi yong 	可以用	c=1 d=9.10767e-19 t=9419
+ke yun xing 	可运行	c=1 d=1 t=26
 ken ding 	肯定	c=4 d=0.0462737 t=9419
 ken ding shi 	肯定是	c=1 d=2.7206e-10 t=9419
 keng 	坑	c=2 d=8.93026e-10 t=9419
 kong ge 	空格	c=14 d=1.97585 t=9419
 kong gu 	控股	c=1 d=3.12029e-05 t=9419
-kong jian 	空间	c=1 d=1.13999e-12 t=9419
+kong jian 	空间	c=1 d=0.0831104 t=9419
+kong jian wu fa man zu 	空间无法满足	c=1 d=1 t=143
 kong tiao 	空调	c=2 d=5.18892e-10 t=9419
 kong zhi 	控制	c=7 d=8.17183e-13 t=9419
 kong zhi jie mian 	控制界面	c=1 d=5.49372e-13 t=9419
@@ -1690,13 +1721,15 @@ kuai di 	快递	c=3 d=0.013491 t=9419
 kuai dian 	快点	c=1 d=1.75336e-18 t=9419
 kuai jie jian 	快捷键	c=1 d=1.23557e-18 t=9419
 kuai qian 	块钱	c=1 d=3.32238e-08 t=9419
-kuan du 	宽度	c=2 d=7.86995e-13 t=9419
+kuan du 	宽度	c=2 d=0.440432 t=9419
 kui 	亏	c=1 d=3.95979e-14 t=9419
 kuo zhan 	扩展	c=1 d=2.23434e-17 t=9419
 l 	了	c=0 d=2.76218e-13 t=9419
 la 	啦	c=1 d=2.09951e-20 t=9419
 la hei 	拉黑	c=0 d=2.17955e-20 t=9419
 la hei le 	拉黑了	c=1 d=2.19047e-19 t=9419
+la ji 	垃圾	c=2 d=1.99239 t=137
+la ji hui shou qi 	垃圾回收器	c=1 d=1 t=108
 la jin 	拉进	c=1 d=0.0510474 t=9419
 la jin qu 	拉进去	c=0 d=9.69259e-17 t=9419
 la le 	拉了	c=1 d=3.78362e-08 t=9419
@@ -1708,13 +1741,14 @@ lai chuang jian 	赖床见	c=1 d=3.87268e-17 t=9419
 lai de 	来的	c=1 d=0.818731 t=9419
 lai hui 	来回	c=2 d=0.000339653 t=9419
 lai kan 	来看	c=1 d=0.036334 t=9419
-lai kan kan 	来看看	c=1 d=1 t=62
+lai kan kan 	来看看	c=1 d=4.80322e-21 t=9419
 lai yuan 	来源	c=1 d=1.36812e-11 t=9419
 lai zhe 	来着	c=1 d=1.44872e-08 t=9419
-lai zi 	来自	c=2 d=1.99501 t=7
+lai zi 	来自	c=2 d=7.27858e-21 t=9419
 lan 	栏	c=1 d=1.51643e-16 t=9419
 lan de 	懒得	c=0 d=9.05145e-06 t=9419
 lan se 	蓝色	c=3 d=6.1001e-08 t=9419
+lan ya 	蓝牙	c=1 d=1 t=55
 lao ge 	老哥	c=1 d=7.06993e-10 t=9419
 lao guo 	老郭	c=3 d=0.0039053 t=9419
 lao pai 	老牌	c=1 d=2.32956e-08 t=9419
@@ -1733,7 +1767,7 @@ lei 	类	c=9 d=2.6427e-14 t=9419
 lei bian liang 	类变量	c=1 d=3.52111e-15 t=9419
 lei de 	类的	c=1 d=4.03004e-15 t=9419
 lei si 	类似	c=2 d=0.0191128 t=9419
-lei si 	蕾丝	c=1 d=1 t=140
+lei si 	蕾丝	c=1 d=7.09427e-21 t=9419
 lei si qing kuang 	类似情况	c=1 d=0.19205 t=9419
 lei xing 	类型	c=6 d=6.19276e-06 t=9419
 li 	力	c=3 d=0.00581542 t=9419
@@ -1752,7 +1786,7 @@ li lv 	利率	c=1 d=1.10134e-18 t=9419
 li mian 	里面	c=16 d=0.0506452 t=9419
 li mian de 	里面的	c=1 d=0.00302755 t=9419
 li mian you 	里面有	c=2 d=1.00293e-05 t=9419
-li pu 	离谱	c=2 d=6.50025e-14 t=9419
+li pu 	离谱	c=2 d=0.767206 t=9419
 li ru 	例如	c=1 d=1.60495e-07 t=9419
 li shi 	历史	c=3 d=0.000207579 t=9419
 li shi ban ben 	历史版本	c=1 d=0.0200405 t=9419
@@ -1765,7 +1799,7 @@ lian ge 	连个	c=1 d=3.41414e-06 t=9419
 lian ge mian shi 	连个面试	c=1 d=3.43125e-05 t=9419
 lian jia 	链家	c=1 d=1.9175e-12 t=9419
 lian jie 	连接	c=14 d=7.57581e-06 t=9419
-lian jie 	链接	c=1 d=2.43928e-20 t=9419
+lian jie 	链接	c=1 d=0.535261 t=9419
 lian jie chi 	连接池	c=1 d=4.34466e-17 t=9419
 lian xi ni 	联系你	c=0 d=0.000431784 t=9419
 lian xi ni ba 	联系你吧	c=1 d=0.00433948 t=9419
@@ -1806,7 +1840,7 @@ lie 	列	c=2 d=1.20695e-08 t=9419
 lie biao 	列表	c=6 d=2.07254e-06 t=9419
 lin 	林	c=1 d=1.17411e-06 t=9419
 lin ju 	邻居	c=0 d=1.75157e-07 t=9419
-lin shi 	临时	c=1 d=5.09503e-09 t=9419
+lin shi 	临时	c=1 d=0.869358 t=9419
 ling 	岭	c=1 d=1.0017e-20 t=9419
 ling dao 	领导	c=1 d=0.00049334 t=9419
 ling dao li 	领导力	c=1 d=0.00530026 t=9419
@@ -1814,7 +1848,7 @@ ling li 	伶俐	c=1 d=9.96707e-21 t=9419
 ling shou 	零售	c=6 d=0.355444 t=9419
 ling shou pan dian 	零售盘点	c=1 d=0.594521 t=9419
 ling wai 	另外	c=3 d=0.134288 t=9419
-ling yi ge 	另一个	c=1 d=1 t=47
+ling yi ge 	另一个	c=1 d=4.45616e-21 t=9419
 ling zheng 	领证	c=1 d=3.12996e-12 t=9419
 liu 	六	c=2 d=0.514274 t=9419
 liu 	刘	c=0 d=5.2015e-18 t=9419
@@ -1848,7 +1882,8 @@ lun gang 	轮岗	c=0 d=3.49153e-05 t=9419
 lun gang gang wei 	轮岗岗位	c=1 d=0.000350903 t=9419
 luo 	罗	c=1 d=1.47517e-15 t=9419
 luo hu 	落户	c=1 d=3.73566e-05 t=9419
-luo ji 	罗技	c=1 d=1.35427e-09 t=9419
+luo ji 	罗技	c=1 d=0.548812 t=9419
+luo ji 	逻辑	c=1 d=1 t=58
 luo shi 	落实	c=2 d=9.73834e-12 t=9419
 lv 	率	c=1 d=0.00530604 t=9419
 lv 	绿	c=1 d=2.65297e-08 t=9419
@@ -1886,6 +1921,7 @@ mai sha 	买啥	c=1 d=2.94058e-13 t=9419
 mai tao 	买套	c=1 d=1.21655e-12 t=9419
 mai yan jing 	卖眼镜	c=1 d=2.24401e-09 t=9419
 man 	满	c=1 d=6.04431e-19 t=9419
+man de 	慢的	c=1 d=1 t=125
 man hua 	漫画	c=3 d=3.04582e-09 t=9419
 man man 	慢慢	c=0 d=2.39969e-05 t=9419
 man yi du 	满意度	c=1 d=2.46337e-18 t=9419
@@ -1901,7 +1937,7 @@ mei bi yao 	没必要	c=0 d=2.02729e-21 t=9419
 mei bi yao jia 	没必要加	c=1 d=2.03746e-20 t=9419
 mei chi fan 	没吃饭	c=1 d=1.26358e-17 t=9419
 mei chuan shu 	没传输	c=1 d=2.3721e-15 t=9419
-mei ci 	每次	c=1 d=5.12319e-15 t=9419
+mei ci 	每次	c=1 d=0.97531 t=9419
 mei cuo 	没错	c=1 d=2.87949e-05 t=9419
 mei cuo ba 	没错吧	c=1 d=0.000277414 t=9419
 mei da 	没打	c=0 d=2.05758e-19 t=9419
@@ -1929,7 +1965,7 @@ mei na me kuai 	没那么快	c=1 d=2.50452e-07 t=9419
 mei ne 	美呢	c=1 d=0.125556 t=9419
 mei ni 	没你	c=0 d=9.73951e-15 t=9419
 mei ni de che 	没你的车	c=1 d=9.78833e-14 t=9419
-mei nv 	美女	c=1 d=1 t=137
+mei nv 	美女	c=1 d=6.98865e-21 t=9419
 mei qi 	煤气	c=0 d=1.25663e-12 t=9419
 mei qian 	没钱	c=0 d=1.99956e-06 t=9419
 mei qu 	没去	c=1 d=1.70536e-15 t=9419
@@ -1952,7 +1988,7 @@ mei wen ti 	没问题	c=3 d=0.0118621 t=9419
 mei xiang dao 	没想到	c=1 d=6.84327e-09 t=9419
 mei xiao shi 	每小时	c=1 d=0.0184997 t=9419
 mei ya 	美亚	c=2 d=4.9089e-05 t=9419
-mei yi ge 	每一个	c=1 d=1 t=111
+mei yi ge 	每一个	c=1 d=6.1367e-21 t=9419
 mei ying xiang 	没影响	c=1 d=6.59533e-16 t=9419
 mei yong 	没用	c=3 d=7.68159e-11 t=9419
 mei yong dao 	没用到	c=0 d=1.26861e-06 t=9419
@@ -1962,6 +1998,7 @@ mei you le 	没有了	c=0 d=5.61539e-07 t=9419
 mei you le ba 	没有了把	c=1 d=5.64353e-06 t=9419
 mei you qian duan 	没有前端	c=1 d=6.94669e-09 t=9419
 mei you shu ju 	没有数据	c=1 d=1.22644e-19 t=9419
+mei you tian qi 	没有天气	c=1 d=1 t=66
 mei you wen ti 	没有问题	c=1 d=8.24096e-19 t=9419
 mei you xie 	没有写	c=1 d=0.00106477 t=9419
 mei zai 	没在	c=1 d=1.21635e-10 t=9419
@@ -1978,6 +2015,7 @@ mian 	面	c=0 d=8.85944e-09 t=9419
 mian e 	面额	c=0 d=1.09228e-10 t=9419
 mian fei 	免费	c=2 d=0.036217 t=9419
 mian shi 	面试	c=1 d=3.711e-06 t=9419
+mian shi ti 	面试题	c=2 d=1.99501 t=8
 miao shu 	描述	c=8 d=2.61567e-07 t=9419
 miao shu bu qing chu 	描述不清楚	c=1 d=1.73863e-07 t=9419
 min gan 	敏感	c=1 d=7.48901e-11 t=9419
@@ -2015,6 +2053,7 @@ mou yi 	某一	c=0 d=1.31765e-11 t=9419
 mou yi nian 	某一年	c=1 d=1.32426e-10 t=9419
 mu 	姆	c=1 d=0.00327971 t=9419
 mu biao 	目标	c=11 d=0.000343769 t=9419
+mu bu 	幕布	c=1 d=1 t=74
 mu lu 	目录	c=7 d=0.00286571 t=9419
 mu lu jie gou 	目录结构	c=2 d=3.52609e-16 t=9419
 mu qian 	目前	c=6 d=4.45303e-05 t=9419
@@ -2024,7 +2063,7 @@ mvn 	mvn	c=3 d=3.03635e-17 t=9419
 na 	哪	c=0 d=3.45256e-20 t=9419
 na 	那	c=12 d=0.46009 t=9419
 na bian 	那边	c=6 d=8.27729e-09 t=9419
-na dao 	拿到	c=1 d=1 t=68
+na dao 	拿到	c=1 d=4.9495e-21 t=9419
 na er 	哪儿	c=0 d=1.04486e-16 t=9419
 na er le 	哪儿了	c=1 d=1.04999e-15 t=9419
 na ge 	哪个	c=8 d=1.96561 t=9419
@@ -2041,7 +2080,7 @@ na hai ke yi 	那还可以	c=1 d=3.60963e-13 t=9419
 na ken ding 	那肯定	c=1 d=0.0256042 t=9419
 na liang 	那辆	c=1 d=6.90969e-05 t=9419
 na liang che 	那辆车	c=1 d=1.3181e-14 t=9419
-na me 	那么	c=0 d=1.21615e-09 t=9419
+na me 	那么	c=1 d=0.70822 t=9419
 na me kuai 	那么快	c=0 d=2.49203e-08 t=9419
 na me yuan 	那么远	c=1 d=3.41646e-13 t=9419
 na mei guan xi 	那没关系	c=1 d=2.22744e-10 t=9419
@@ -2079,7 +2118,9 @@ nan yi 	难易	c=1 d=3.37431e-14 t=9419
 ne 	呢	c=10 d=6.43736e-07 t=9419
 nei bu 	内部	c=2 d=0.00081042 t=9419
 nei bu lei 	内部类	c=2 d=2.51912e-10 t=9419
-nei cun 	内存	c=2 d=4.834e-20 t=9419
+nei cun 	内存	c=2 d=1.91983 t=9419
+nei cun mo xing 	内存模型	c=1 d=1 t=9
+nei cun zheng li 	内存整理	c=1 d=1 t=176
 nei gou 	内购	c=2 d=4.13223e-05 t=9419
 nei huan 	内环	c=1 d=4.77276e-05 t=9419
 nei juan 	内卷	c=1 d=2.08726e-10 t=9419
@@ -2087,7 +2128,7 @@ nei rong 	内容	c=7 d=1 t=9419
 nei tui 	内推	c=1 d=4.35146e-06 t=9419
 nei wang 	内网	c=1 d=0.00100779 t=9419
 nei xiang 	内向	c=1 d=0.00247875 t=9419
-nei yi 	内衣	c=2 d=1.96079 t=143
+nei yi 	内衣	c=2 d=1.41206e-20 t=9419
 nei zhi 	内置	c=1 d=0.99005 t=9419
 nen jiu 	恁舅	c=1 d=2.12061e-20 t=9419
 neng 	能	c=6 d=1.0459e-09 t=9419
@@ -2214,7 +2255,7 @@ ni zai zhao 	你再找	c=1 d=3.38949e-08 t=9419
 ni zhao 	你找	c=0 d=0.000814786 t=9419
 ni zhao ge 	你找个	c=1 d=0.0081887 t=9419
 ni zhe 	你这	c=1 d=5.08361e-12 t=9419
-ni zhe ge 	你这个	c=1 d=1 t=96
+ni zhe ge 	你这个	c=1 d=5.69328e-21 t=9419
 ni zhuang xiu 	你装修	c=1 d=9.52688e-19 t=9419
 ni zi ji 	你自己	c=1 d=0.0977834 t=9419
 ni zou le 	你走了	c=0 d=1.20506e-19 t=9419
@@ -2251,10 +2292,10 @@ pai jian 	派件	c=1 d=0.00467746 t=9419
 pai ta 	排他	c=0 d=7.60607e-18 t=9419
 pai ta wang guan 	排他网关	c=1 d=7.6442e-17 t=9419
 pai xu 	排序	c=1 d=1.35101e-11 t=9419
-pan 	盘	c=0 d=0.1 t=68
+pan 	盘	c=0 d=4.9495e-22 t=9419
 pan dian 	盘点	c=30 d=5.94103 t=9419
 pan dian biao 	盘点表	c=1 d=0.00918669 t=9419
-pan dian dan 	盘点单	c=3 d=2.83815 t=93
+pan dian dan 	盘点单	c=3 d=1.59178e-20 t=9419
 pan dian dan hao 	盘点单号	c=1 d=0.000405658 t=9419
 pan dian jie guo 	盘点结果	c=2 d=0.0122939 t=9419
 pan dian ren wu 	盘点任务	c=1 d=6.92876e-08 t=9419
@@ -2342,6 +2383,7 @@ qi dong 	启动	c=17 d=0.000279623 t=9419
 qi dong bu liao 	启动不了	c=1 d=5.67375e-10 t=9419
 qi gong lu che 	骑公路车	c=1 d=2.83944e-13 t=9419
 qi lai 	起来	c=0 d=5.00707e-11 t=9419
+qi lin 	麒麟	c=0 d=0.1 t=61
 qi nang 	气囊	c=0 d=8.76872e-15 t=9419
 qi pa 	奇葩	c=0 d=1.25275e-05 t=9419
 qi shi 	其实	c=3 d=3.09448e-13 t=9419
@@ -2355,7 +2397,7 @@ qi ta zhuan ye 	其他专业	c=1 d=3.52962e-14 t=9419
 qi xia 	旗下	c=1 d=1.79621e-08 t=9419
 qi ye 	企业	c=1 d=3.03901e-18 t=9419
 qi ye da xue 	企业大学	c=1 d=5.87485e-08 t=9419
-qi yong 	启用	c=1 d=1.26272e-09 t=9419
+qi yong 	启用	c=2 d=1.73442 t=9419
 qi zhong 	其中	c=1 d=4.86157e-16 t=9419
 qi zui 	气嘴	c=2 d=3.0678e-14 t=9419
 qian 	前	c=1 d=4.67024e-15 t=9419
@@ -2389,7 +2431,9 @@ qing 	请	c=0 d=7.69585e-09 t=9419
 qing 	轻	c=1 d=0.878095 t=9419
 qing chang shi 	请尝试	c=1 d=1.26031e-16 t=9419
 qing chu 	清楚	c=2 d=4.56822e-07 t=9419
+qing chu 	清除	c=0 d=0.185214 t=164
 qing chu le 	清楚了	c=0 d=0.000257991 t=9419
+qing chu shi 	清除时	c=1 d=1.07045 t=139
 qing hua 	清华	c=1 d=0.00843808 t=9419
 qing jia 	请假	c=0 d=1.44523e-10 t=9419
 qing jia shen qing 	请假申请	c=1 d=1.45247e-09 t=9419
@@ -2411,7 +2455,7 @@ qu 	区	c=2 d=0.000360939 t=9419
 qu 	去	c=7 d=0.0117478 t=9419
 qu 	取	c=4 d=1.31869 t=9419
 qu ba 	去吧	c=1 d=0.0880368 t=9419
-qu bie 	区别	c=3 d=0.000175127 t=9419
+qu bie 	区别	c=3 d=0.519442 t=9419
 qu bu chu lai 	取不出来	c=1 d=0.00195963 t=9419
 qu chi 	去吃	c=1 d=0.0858632 t=9419
 qu chong fu 	去重复	c=2 d=0.0649411 t=9419
@@ -2451,7 +2495,7 @@ quan shi 	全市	c=1 d=9.16609e-06 t=9419
 quan xian 	权限	c=4 d=1.54138 t=9419
 quan xian zhong xin 	权限中心	c=1 d=0.818731 t=9419
 quan zhou 	泉州	c=1 d=9.95351e-05 t=9419
-que dian 	缺点	c=0 d=2.28857e-06 t=9419
+que dian 	缺点	c=1 d=0.606531 t=9419
 que ding 	确定	c=0 d=6.54215e-10 t=9419
 que ren 	确认	c=1 d=2.41172e-05 t=9419
 que ren le 	确认了	c=1 d=0.000242381 t=9419
@@ -2508,14 +2552,14 @@ rong qi 	容器	c=1 d=5.25199e-13 t=9419
 rong qiao 	融侨	c=5 d=8.84659e-15 t=9419
 rong yao 	荣耀	c=1 d=1.14019e-14 t=9419
 ru 	如	c=1 d=4.21625e-17 t=9419
-ru guo 	如果	c=31 d=0.12487 t=9419
+ru guo 	如果	c=31 d=3.08124 t=9419
 ru guo mei qi ta shi qing 	如果没其它事情	c=1 d=6.98865e-21 t=9419
-ru he 	如何	c=4 d=1.3914e-07 t=9419
+ru he 	如何	c=4 d=0.458406 t=9419
 ru he tiao zheng 	如何调整	c=1 d=8.36693e-21 t=9419
 ru men 	入门	c=2 d=7.46472e-21 t=9419
 ru xia 	如下	c=3 d=5.07261e-13 t=9419
 ru zhi 	入职	c=1 d=5.27472e-05 t=9419
-ruan jian 	软件	c=19 d=0.00179368 t=9419
+ruan jian 	软件	c=19 d=0.571209 t=9419
 ruan jian kai fa 	软件开发	c=2 d=7.50389e-12 t=9419
 ruan jian xia zai 	软件下载	c=1 d=2.49245e-09 t=9419
 ruo yi 	若依	c=2 d=8.42388e-12 t=9419
@@ -2523,6 +2567,7 @@ s 	三	c=2 d=1.50058e-10 t=9419
 sai cheng 	赛程	c=1 d=2.61614e-20 t=9419
 san 	三	c=7 d=0.880301 t=9419
 san ci 	三次	c=1 d=4.33196e-12 t=9419
+san da 	三大	c=1 d=1 t=11
 san ge 	三个	c=1 d=0.535261 t=9419
 san ge jie kou 	三个接口	c=1 d=5.37378e-18 t=9419
 san ge wen jian 	三个文件	c=1 d=5.40072e-18 t=9419
@@ -2532,7 +2577,7 @@ san ji 	三级	c=2 d=0.95906 t=9419
 san liang 	三辆	c=2 d=2.04247e-11 t=9419
 san sui 	三岁	c=1 d=4.01895e-12 t=9419
 san xing 	三星	c=1 d=1.56586e-11 t=9419
-san zhong 	三种	c=1 d=1 t=14
+san zhong 	三种	c=1 d=3.77835e-21 t=9419
 san zi 	三字	c=1 d=1.72191e-11 t=9419
 sao 	扫	c=1 d=3.50176e-09 t=9419
 se qing 	色情	c=1 d=3.22364e-06 t=9419
@@ -2582,7 +2627,7 @@ shang yi ci 	上一次	c=2 d=0.0171794 t=9419
 shang you er yuan 	上幼儿园	c=1 d=6.69614e-18 t=9419
 shao 	少	c=2 d=3.96225e-12 t=9419
 shao 	烧	c=1 d=1.99543e-10 t=9419
-shao liang 	少量	c=1 d=1 t=37
+shao liang 	少量	c=1 d=4.23883e-21 t=9419
 shao mai 	少买	c=0 d=3.62526e-06 t=9419
 shao mai dian 	少买点	c=1 d=3.64343e-05 t=9419
 shao mei 	烧煤	c=1 d=1.38187e-11 t=9419
@@ -2629,7 +2674,7 @@ shi 	试	c=1 d=6.0548e-10 t=9419
 shi a 	是啊	c=1 d=8.85836e-16 t=9419
 shi an zhao 	是按照	c=0 d=6.2123e-19 t=9419
 shi ba 	是吧	c=2 d=0.0497871 t=9419
-shi bai 	失败	c=8 d=0.376462 t=9419
+shi bai 	失败	c=8 d=0.847894 t=9419
 shi bie 	识别	c=0 d=1.45247e-10 t=9419
 shi bu 	是不	c=0 d=1.01318e-08 t=9419
 shi bu ma fan 	是不麻烦	c=1 d=1.01826e-07 t=9419
@@ -2677,7 +2722,7 @@ shi pin 	视频	c=7 d=0.980199 t=9419
 shi pin ge shi 	视频格式	c=1 d=6.98389e-13 t=9419
 shi qing 	事情	c=4 d=0.0213917 t=9419
 shi sha 	是啥	c=1 d=1.14809e-07 t=9419
-shi shen me 	是什么	c=6 d=0.000192582 t=9419
+shi shen me 	是什么	c=6 d=0.451581 t=9419
 shi shi 	实施	c=1 d=0.0241131 t=9419
 shi shi 	试试	c=5 d=7.375e-07 t=9419
 shi ti 	尸体	c=1 d=0.00245409 t=9419
@@ -2685,7 +2730,7 @@ shi wan 	十万	c=0 d=1.02636e-13 t=9419
 shi wu guan li 	事务管理	c=0 d=3.38362e-18 t=9419
 shi wu guan li qi 	事务管理器	c=1 d=3.40058e-17 t=9419
 shi xian 	实现	c=3 d=0.842451 t=9419
-shi xian lei 	实现类	c=1 d=1 t=19
+shi xian lei 	实现类	c=1 d=3.874e-21 t=9419
 shi xian pai xu 	实现排序	c=1 d=3.6302e-21 t=9419
 shi xiao 	失效	c=0 d=1.21676e-15 t=9419
 shi yao 	是要	c=1 d=2.93498e-20 t=9419
@@ -2693,6 +2738,7 @@ shi ye bu 	事业部	c=1 d=0.000367055 t=9419
 shi yi shi 	试一试	c=1 d=4.17501e-19 t=9419
 shi yi xia 	试一下	c=1 d=0.000323925 t=9419
 shi yong 	使用	c=24 d=0.675304 t=9419
+shi yong de 	使用的	c=1 d=1 t=163
 shi yong le 	使用了	c=1 d=1.32403e-08 t=9419
 shi yue fen 	十月份	c=1 d=0.257947 t=9419
 shi zai 	是在	c=1 d=4.43936e-06 t=9419
@@ -2706,15 +2752,18 @@ shou gou 	收购	c=0 d=2.15529e-06 t=9419
 shou gou de 	收购的	c=1 d=2.16609e-05 t=9419
 shou hang 	首行	c=1 d=5.43999e-15 t=9419
 shou heng 	守恒	c=1 d=1.41685e-11 t=9419
-shou ji 	手机	c=9 d=1.32521e-05 t=9419
+shou ji 	手机	c=9 d=0.097531 t=9419
+shou ji 	收集	c=0 d=0.1 t=177
 shou ji hao 	手机号	c=1 d=0.00027603 t=9419
 shou ji pai zhao 	手机拍照	c=1 d=3.21641e-09 t=9419
+shou ji qi 	收集器	c=2 d=1.76721 t=153
 shou ji shang 	手机上	c=1 d=0.00153381 t=9419
+shou ji yi hou 	手机以后	c=1 d=1 t=175
 shou li 	手里	c=1 d=6.22838e-19 t=9419
 shou shi dong xi 	收拾东西	c=1 d=1.88017e-16 t=9419
 shou wu 	手误	c=1 d=0.0632918 t=9419
 shu 	数	c=2 d=2.58147e-13 t=9419
-shu biao 	鼠标	c=1 d=5.86268e-13 t=9419
+shu biao 	鼠标	c=1 d=0.540641 t=9419
 shu chu 	输出	c=3 d=0.000898306 t=9419
 shu chu jie guo 	输出结果	c=1 d=2.64793e-15 t=9419
 shu fu 	舒服	c=1 d=2.14454e-05 t=9419
@@ -2733,7 +2782,7 @@ shu ju yuan 	数据源	c=1 d=3.36675e-17 t=9419
 shu ju zhi 	数据值	c=1 d=1.53115e-12 t=9419
 shu ju zi dian 	数据字典	c=1 d=0.826959 t=9419
 shu li 	梳理	c=1 d=0.618783 t=9419
-shu liang 	数量	c=3 d=2.76129e-09 t=9419
+shu liang 	数量	c=4 d=2.90213 t=9419
 shu qian 	书签	c=3 d=5.80804e-09 t=9419
 shu ru 	输入	c=0 d=6.93466e-19 t=9419
 shu ru fa 	输入法	c=5 d=2.84453 t=9419
@@ -2773,7 +2822,7 @@ shuo de 	说的	c=2 d=7.10645e-06 t=9419
 shuo guo 	说过	c=1 d=9.32711e-05 t=9419
 shuo hua de 	说话的	c=1 d=4.39519e-06 t=9419
 shuo le 	说了	c=3 d=0.0569831 t=9419
-shuo ming 	说明	c=5 d=0.0407887 t=9419
+shuo ming 	说明	c=5 d=0.438235 t=9419
 shuo shi 	硕士	c=1 d=0.00852289 t=9419
 si 	司	c=1 d=0.000343955 t=9419
 si 	四	c=3 d=4.86918e-05 t=9419
@@ -2795,16 +2844,17 @@ sou suo 	搜索	c=7 d=0.00154923 t=9419
 su 	诉	c=1 d=0.965605 t=9419
 su du kuai 	速度快	c=1 d=4.19308e-11 t=9419
 suan 	算	c=2 d=1.41773e-18 t=9419
-suan fa 	算法	c=1 d=2.51057e-06 t=9419
+suan fa 	算法	c=1 d=0.937067 t=9419
 suan le 	算了	c=1 d=3.80323e-10 t=9419
 sui bian 	随便	c=0 d=3.18332e-06 t=9419
 sui bian kai 	随便开	c=1 d=8.90125e-14 t=9419
 sui bian mai 	随便买	c=1 d=3.19928e-05 t=9419
-sui ran 	虽然	c=2 d=0.000143382 t=9419
+sui pian 	碎片	c=2 d=1.956 t=171
+sui ran 	虽然	c=2 d=1.23146 t=9419
 sui yi 	随意	c=3 d=2.78572e-13 t=9419
 sun 	孙	c=2 d=0.00117675 t=9419
 sun hao 	损耗	c=1 d=3.53816e-13 t=9419
-suo 	锁	c=3 d=2.91259 t=36
+suo 	锁	c=3 d=1.22844e-20 t=9419
 suo ding 	锁定	c=1 d=2.94158e-17 t=9419
 suo xie 	缩写	c=1 d=0.00980366 t=9419
 suo xu 	所需	c=1 d=1.23856e-17 t=9419
@@ -2812,6 +2862,7 @@ suo xu yao 	所需要	c=1 d=6.79272e-10 t=9419
 suo yi 	所以	c=2 d=3.36043e-06 t=9419
 suo you 	所有	c=15 d=1.95328 t=9419
 suo you de 	所有的	c=1 d=0.421052 t=9419
+suo you fan nao 	所有烦恼	c=1 d=1 t=65
 suo zai 	所在	c=2 d=0.329559 t=9419
 t 	他	c=0 d=9.23431e-06 t=9419
 ta 	他	c=18 d=0.0174345 t=9419
@@ -2864,6 +2915,7 @@ te bie 	特别	c=2 d=3.28194e-11 t=9419
 te bie duo 	特别多	c=1 d=4.28886e-12 t=9419
 te shu 	特殊	c=1 d=1.58569e-12 t=9419
 te si la 	特斯拉	c=13 d=0.000300519 t=9419
+te xing 	特性	c=1 d=1 t=12
 teng tong 	疼痛	c=1 d=1.69219e-12 t=9419
 ti 	体	c=0 d=2.69215e-05 t=9419
 ti 	提	c=1 d=7.30162e-07 t=9419
@@ -2884,6 +2936,7 @@ tian jia 	添加	c=37 d=0.985112 t=9419
 tian jia jie kou 	添加接口	c=1 d=1.42148e-20 t=9419
 tian jia zhuang tai zhi 	添加状态值	c=1 d=1.03738e-20 t=9419
 tian jiu 	天就	c=0 d=7.35471e-05 t=9419
+tian qi 	天气	c=0 d=0.1 t=65
 tian re 	天热	c=1 d=9.01091e-11 t=9419
 tian ru 	填入	c=1 d=4.59827e-08 t=9419
 tian tang 	天堂	c=0 d=2.30638e-09 t=9419
@@ -2892,7 +2945,7 @@ tian xie 	填写	c=1 d=0.0297478 t=9419
 tiao 	条	c=1 d=4.96754e-05 t=9419
 tiao pi 	调皮	c=1 d=4.69276e-12 t=9419
 tiao shi 	调试	c=1 d=6.62952e-18 t=9419
-tiao zheng 	调整	c=4 d=0.000310225 t=9419
+tiao zheng 	调整	c=4 d=0.442639 t=9419
 tiao zheng shun xu 	调整顺序	c=1 d=0.000271921 t=9419
 tiao zheng wan cheng 	调整完成	c=1 d=9.29324e-21 t=9419
 tie dao 	贴到	c=1 d=4.80992e-08 t=9419
@@ -2911,11 +2964,11 @@ ting shuo 	听说	c=2 d=2.20985e-05 t=9419
 ting zai 	停在	c=1 d=1.33135e-14 t=9419
 tong 	同	c=1 d=0.597501 t=9419
 tong 	通	c=3 d=4.03916e-17 t=9419
-tong bu 	同步	c=12 d=0.0597501 t=9419
+tong bu 	同步	c=12 d=0.588605 t=9419
 tong bu dao 	同不到	c=1 d=7.5135e-20 t=9419
 tong bu jie kou 	同步接口	c=1 d=6.57606e-11 t=9419
 tong bu le 	同步了	c=1 d=1.35543e-19 t=9419
-tong bu wen ti 	同步问题	c=1 d=1 t=41
+tong bu wen ti 	同步问题	c=1 d=4.32446e-21 t=9419
 tong bu xin xi 	同步信息	c=1 d=9.0857e-20 t=9419
 tong dian 	同店	c=1 d=0.00486835 t=9419
 tong guo 	通过	c=6 d=6.39496e-06 t=9419
@@ -2927,6 +2980,7 @@ tong shi 	同事	c=3 d=0.000166285 t=9419
 tong shi 	同时	c=1 d=5.60184e-07 t=9419
 tong shi shuo 	同事说	c=1 d=0.00236359 t=9419
 tong shi shuo de 	同事说的	c=1 d=0.0237541 t=9419
+tong xin 	通信	c=1 d=1 t=24
 tong xue 	同学	c=5 d=0.000133021 t=9419
 tong yang 	同样	c=0 d=1.04439e-12 t=9419
 tong yang dou shi 	同样都是	c=1 d=1.04963e-11 t=9419
@@ -2957,6 +3011,7 @@ tui guang 	推广	c=2 d=0.000714216 t=9419
 tui jian 	推荐	c=3 d=2.47624e-09 t=9419
 tui jian fang shi 	推荐方式	c=1 d=4.2141e-11 t=9419
 tui jian shi yong 	推荐使用	c=1 d=6.41261e-09 t=9419
+tun tu liang 	吞吐量	c=1 d=1 t=97
 tuo xie 	妥协	c=1 d=1.72221e-13 t=9419
 ui 	室	c=1 d=8.16035e-21 t=9419
 vi;e 	职	c=1 d=3.88336e-20 t=9419
@@ -3005,7 +3060,7 @@ wang zhan 	网站	c=4 d=2.79621e-09 t=9419
 wang zhe 	王者	c=1 d=1.1345e-14 t=9419
 wang zhi 	网址	c=3 d=2.18702e-09 t=9419
 wang zong 	王总	c=2 d=0.00721395 t=9419
-wei 	为	c=11 d=0.0212991 t=9419
+wei 	为	c=11 d=1.37813 t=9419
 wei 	慰	c=3 d=9.78362e-11 t=9419
 wei 	未	c=3 d=1.39988 t=9419
 wei 	维	c=2 d=4.15435e-17 t=9419
@@ -3014,7 +3069,7 @@ wei bo 	微博	c=1 d=4.35664e-20 t=9419
 wei fa 	未发	c=0 d=8.09042e-09 t=9419
 wei fa qi 	未发起	c=2 d=0.000121047 t=9419
 wei hu 	维护	c=1 d=0.752014 t=9419
-wei le 	为了	c=3 d=1.00553e-06 t=9419
+wei le 	为了	c=3 d=0.486752 t=9419
 wei shan 	未删	c=0 d=1.32084e-10 t=9419
 wei shan chu 	未删除	c=1 d=1.32746e-09 t=9419
 wei shen me 	为什么	c=5 d=5.64653e-10 t=9419
@@ -3029,7 +3084,7 @@ wen ben 	文本	c=6 d=0.1148 t=9419
 wen ben bi jiao 	文本比较	c=1 d=9.37865e-11 t=9419
 wen ben dui bi 	文本对比	c=1 d=8.31812e-11 t=9419
 wen ben li mian 	文本里面	c=1 d=1.38474e-06 t=9419
-wen dang 	文档	c=6 d=8.79699e-09 t=9419
+wen dang 	文档	c=6 d=0.109408 t=9419
 wen dao 	问到	c=0 d=2.16308e-19 t=9419
 wen dao le 	问到了	c=2 d=0.000581442 t=9419
 wen de 	问的	c=1 d=5.06962e-09 t=9419
@@ -3212,10 +3267,13 @@ wu ai po jie 	吾爱破解	c=3 d=5.21523e-08 t=9419
 wu can 	午餐	c=1 d=7.02009e-15 t=9419
 wu cha bie 	无差别	c=1 d=2.60628e-05 t=9419
 wu dian 	五点	c=1 d=3.70353e-21 t=9419
-wu fa 	无法	c=15 d=1.40648e-07 t=9419
+wu fa 	无法	c=15 d=0.551563 t=9419
 wu fa bao cun 	无法保存	c=1 d=9.14398e-07 t=9419
+wu fa chu li 	无法处理	c=1 d=1 t=130
 wu fa kan 	无法看	c=1 d=6.51174e-13 t=9419
 wu fa lian jie 	无法连接	c=1 d=4.70731e-19 t=9419
+wu fa man zu 	无法满足	c=0 d=0.1 t=142
+wu fa shi yong 	无法使用	c=1 d=1 t=57
 wu fa shu ru 	无法输入	c=1 d=6.96942e-18 t=9419
 wu fei shi 	无非是	c=1 d=5.76244e-16 t=9419
 wu han 	武汉	c=1 d=0.00873865 t=9419
@@ -3258,14 +3316,15 @@ xia zai 	下载	c=12 d=0.000587338 t=9419
 xia zai fu jian 	下载附件	c=1 d=5.42779e-18 t=9419
 xia zhou 	下周	c=0 d=6.31714e-10 t=9419
 xia zhou kai shi mang 	下周开始忙	c=1 d=6.3488e-09 t=9419
-xian 	先	c=7 d=2.58747e-07 t=9419
+xian 	先	c=7 d=0.50409 t=9419
 xian 	线	c=1 d=1.49284e-08 t=9419
 xian 	闲	c=1 d=0.00238156 t=9419
 xian 	限	c=0 d=5.45221e-13 t=9419
 xian bu 	先不	c=1 d=0.000249763 t=9419
 xian cao mi 	仙草蜜	c=1 d=4.81484e-20 t=9419
-xian cheng 	县城	c=1 d=1 t=48
-xian cheng 	线程	c=1 d=1 t=49
+xian cheng 	县城	c=1 d=0.453845 t=9419
+xian cheng 	线程	c=5 d=3.3116 t=9419
+xian cheng shu liang 	线程数量	c=1 d=1 t=101
 xian chu shi hua 	先初始化	c=1 d=6.48036e-15 t=9419
 xian fa 	先发	c=1 d=6.98033e-07 t=9419
 xian fa yi xia 	先发一下	c=2 d=0.000259956 t=9419
@@ -3284,7 +3343,7 @@ xian shi qi hei ping 	显示器黑屏	c=1 d=1.11818e-20 t=9419
 xian xiang 	现象	c=2 d=6.25647e-13 t=9419
 xian xie zai 	先卸载	c=1 d=1.90268e-09 t=9419
 xian xue xian mai 	现学现卖	c=1 d=2.65939e-07 t=9419
-xian yu 	闲鱼	c=2 d=1.99501 t=2
+xian yu 	闲鱼	c=2 d=7.09887e-21 t=9419
 xian zai 	现在	c=21 d=0.923116 t=9419
 xian zai guo qu 	现在过去	c=1 d=2.18333e-10 t=9419
 xian zai jiu 	现在就	c=0 d=3.10578e-10 t=9419
@@ -3343,7 +3402,7 @@ xiao xin dian 	小心点	c=1 d=2.2444e-11 t=9419
 xiao xing 	小型	c=1 d=4.68065e-11 t=9419
 xiao yi dian 	小一点	c=1 d=1.2536e-12 t=9419
 xiao you xi 	小游戏	c=2 d=1.99758e-15 t=9419
-xiao yu 	小于	c=2 d=1.81927e-11 t=9419
+xiao yu 	小于	c=2 d=0.755784 t=9419
 xiao zhao 	校招	c=6 d=6.85966e-17 t=9419
 xiao zhao sheng 	小招生	c=1 d=1.7576e-17 t=9419
 xiao zhong 	小众	c=1 d=1.26053e-18 t=9419
@@ -3354,15 +3413,16 @@ xie cuo 	写错	c=3 d=0.182261 t=9419
 xie de 	写的	c=1 d=0.0374406 t=9419
 xie di 	鞋底	c=2 d=8.82871e-05 t=9419
 xie le 	写了	c=1 d=0.0620385 t=9419
-xie suo 	写锁	c=1 d=1 t=24
+xie suo 	写锁	c=1 d=3.97207e-21 t=9419
 xie zai 	卸载	c=2 d=5.79498e-08 t=9419
 xie zai ma 	卸载吗	c=1 d=4.3559e-18 t=9419
 xie zhao heng 	谢兆恒	c=5 d=0.224249 t=9419
 xie zhao xin 	谢兆鑫	c=1 d=5.11883e-05 t=9419
 xie zi 	鞋子	c=2 d=2.74186e-05 t=9419
-xin 	新	c=0 d=4.13923e-07 t=9419
+xin 	新	c=0 d=0.0798516 t=9419
 xin 	鑫	c=1 d=0.0972957 t=9419
 xin ban ben 	新版本	c=1 d=3.0924e-17 t=9419
+xin chan sheng 	新产生	c=1 d=1 t=135
 xin de 	新的	c=3 d=0.251579 t=9419
 xin hao 	信号	c=1 d=7.00197e-14 t=9419
 xin jian 	新建	c=1 d=5.9349e-10 t=9419
@@ -3392,7 +3452,7 @@ xiong 	胸	c=1 d=6.53081e-18 t=9419
 xiong bu 	胸部	c=1 d=1.68375e-12 t=9419
 xiu 	秀	c=1 d=5.38128e-05 t=9419
 xiu fu 	修复	c=8 d=0.348827 t=9419
-xiu gai 	修改	c=55 d=0.615718 t=9419
+xiu gai 	修改	c=55 d=1.05723 t=9419
 xiu gai dai ma 	修改代码	c=1 d=0.164474 t=9419
 xiu gai yi xie 	修改一些	c=1 d=7.66398e-18 t=9419
 xiu weng d 	修翁的	c=1 d=8.57144e-11 t=9419
@@ -3402,7 +3462,7 @@ xu 	许	c=5 d=2.07128e-05 t=9419
 xu hao 	序号	c=1 d=1.60272e-20 t=9419
 xu qiu 	需求	c=10 d=0.900068 t=9419
 xu yang 	许杨	c=2 d=1.655e-09 t=9419
-xu yao 	需要	c=15 d=0.0782148 t=9419
+xu yao 	需要	c=15 d=0.083527 t=9419
 xu yao hao zhang 	需要好长	c=1 d=9.23745e-09 t=9419
 xuan 	选	c=0 d=1.15223e-21 t=9419
 xuan cuo 	选错	c=0 d=0.00401553 t=9419
@@ -3414,7 +3474,7 @@ xuan xiang 	选项	c=1 d=7.77981e-18 t=9419
 xuan ze 	选择	c=3 d=0.000473741 t=9419
 xuan zi 	选字	c=1 d=1.74794e-11 t=9419
 xuan zui da 	选最大	c=1 d=1.15801e-20 t=9419
-xue 	学	c=1 d=6.03731e-13 t=9419
+xue 	学	c=1 d=0.574072 t=9419
 xue li 	学历	c=5 d=0.0211874 t=9419
 xue qu 	学区	c=1 d=2.41336e-12 t=9419
 xue qu fang 	学区房	c=2 d=3.43521e-12 t=9419
@@ -3422,6 +3482,7 @@ xue sheng 	学生	c=3 d=2.32394e-09 t=9419
 xue sheng ping fen 	学生评分	c=1 d=6.36957e-18 t=9419
 xue xi 	学习	c=3 d=0.000134364 t=9419
 xue xi cheng ji 	学习成绩	c=1 d=5.26737e-18 t=9419
+xue xi xue xi 	学习学习	c=1 d=1 t=39
 xue xiao 	学校	c=1 d=2.05653e-12 t=9419
 xx;iw 	厦	c=2 d=4.74751e-18 t=9419
 y xia 	一下	c=1 d=5.89006e-09 t=9419
@@ -3493,7 +3554,7 @@ ye ji 	业绩	c=3 d=0.0140365 t=9419
 ye jia yi 	也加一	c=1 d=5.70608e-18 t=9419
 ye jiu 	也就	c=2 d=2.05628e-08 t=9419
 ye kan bu dong 	也看不懂	c=1 d=2.89483e-05 t=9419
-ye ke 	也可	c=1 d=1 t=43
+ye ke 	也可	c=1 d=4.36792e-21 t=9419
 ye ke yi 	也可以	c=1 d=1.17695e-05 t=9419
 ye kuai 	也快	c=1 d=8.92277e-13 t=9419
 ye li 	夜里	c=0 d=0.0224249 t=9419
@@ -3527,7 +3588,7 @@ ye zhi you 	也只有	c=1 d=7.54731e-14 t=9419
 ye zhu 	业主	c=0 d=9.31254e-17 t=9419
 ye zhu qun 	业主群	c=1 d=9.35922e-16 t=9419
 ye zuo 	也做	c=1 d=3.50963e-06 t=9419
-yi 	一	c=7 d=0.00149891 t=9419
+yi 	一	c=7 d=0.414783 t=9419
 yi 	以	c=0 d=1.58286e-14 t=9419
 yi 	已	c=1 d=1.21784e-05 t=9419
 yi ban 	一半	c=2 d=8.3769e-05 t=9419
@@ -3536,10 +3597,10 @@ yi ban ban 	一般般	c=0 d=1.25318e-09 t=9419
 yi ban ban ba 	一般般吧	c=1 d=1.25946e-08 t=9419
 yi ban dou shi 	一般都是	c=1 d=2.2502e-12 t=9419
 yi bian 	一遍	c=1 d=1.78817e-14 t=9419
-yi bu fen 	一部分	c=2 d=0.0415857 t=9419
+yi bu fen 	一部分	c=2 d=0.644036 t=9419
 yi chang 	异常	c=20 d=0.684359 t=9419
 yi chu 	移除	c=1 d=0.960789 t=9419
-yi ci 	一次	c=2 d=1.83868e-12 t=9419
+yi ci 	一次	c=2 d=0.88692 t=9419
 yi dian 	一点	c=1 d=4.71388e-06 t=9419
 yi ding 	一定	c=3 d=1.17074e-11 t=9419
 yi ding hui 	一定会	c=1 d=0.000145173 t=9419
@@ -3634,7 +3695,7 @@ yin qing shi 	引擎时	c=1 d=4.63644e-17 t=9419
 yin wei 	因为	c=6 d=0.105214 t=9419
 yin xiang bi ji 	印象笔记	c=2 d=0.0270518 t=9419
 yin yong 	引用	c=1 d=1.55429e-12 t=9419
-yin yue 	音乐	c=1 d=1 t=129
+yin yue 	音乐	c=1 d=6.71462e-21 t=9419
 ying er 	婴儿	c=1 d=7.77584e-12 t=9419
 ying er che 	婴儿车	c=1 d=6.69273e-12 t=9419
 ying gai 	应该	c=14 d=0.357626 t=9419
@@ -3645,28 +3706,33 @@ ying gai shi 	应该是	c=3 d=0.0629761 t=9419
 ying gai you ge 	应该有个	c=1 d=7.40038e-18 t=9419
 ying shi 	影视	c=2 d=2.53303e-08 t=9419
 ying wen 	英文	c=5 d=1.9587e-06 t=9419
-ying xiang 	影响	c=4 d=9.73289e-06 t=9419
+ying xiang 	影响	c=4 d=0.0755784 t=9419
+ying xiang geng da 	影响更大	c=1 d=1 t=124
 ying xiao 	营销	c=2 d=0.011109 t=9419
+ying yong cheng xu 	应用程序	c=1 d=1 t=94
 ying yu dan ci 	英语单词	c=1 d=1.80552e-10 t=9419
 yong 	用	c=17 d=0.71177 t=9419
 yong bu 	永不	c=0 d=5.53179e-07 t=9419
 yong bu kai qi 	永不开启	c=1 d=5.55951e-06 t=9419
 yong bu liao 	用不了	c=1 d=0.289384 t=9419
 yong chu 	用处	c=1 d=1.0193e-19 t=9419
-yong dao 	用到	c=1 d=1 t=95
+yong dao 	用到	c=1 d=5.66489e-21 t=9419
 yong de 	用的	c=8 d=3.30185e-06 t=9419
 yong gong 	用工	c=0 d=8.70691e-20 t=9419
 yong gong ji jin 	用工基金	c=1 d=8.75055e-19 t=9419
-yong hu 	用户	c=16 d=7.7158e-06 t=9419
+yong hu 	用户	c=16 d=1.42998 t=9419
 yong hu guan li 	用户管理	c=1 d=0.839457 t=9419
 yong hu ming 	用户名	c=1 d=1.54229e-09 t=9419
 yong hu tong yi 	用户同意	c=1 d=1.23431e-06 t=9419
+yong hu xian cheng 	用户线程	c=2 d=1.96561 t=134
+yong hu zi yuan 	用户资源	c=1 d=1 t=83
 yong lai 	用来	c=3 d=1.27827e-06 t=9419
 yong le 	用了	c=1 d=3.41821e-19 t=9419
 yong shi 	勇士	c=1 d=4.38832e-17 t=9419
 yong tu 	用途	c=1 d=1.15943e-05 t=9419
 yong you 	拥有	c=2 d=4.91428e-17 t=9419
 yong yu 	用于	c=2 d=5.44725e-17 t=9419
+you 	优	c=0 d=0.1 t=61
 you 	又	c=7 d=0.000111118 t=9419
 you 	有	c=22 d=0.150517 t=9419
 you 	由	c=2 d=7.93969e-15 t=9419
@@ -3680,6 +3746,7 @@ you de 	有的	c=10 d=0.00791591 t=9419
 you de jiu shi 	有的就是	c=1 d=6.26833e-06 t=9419
 you de ren 	有的人	c=3 d=0.10302 t=9419
 you de shi hou 	有的时候	c=1 d=3.08494e-18 t=9419
+you dian 	优点	c=1 d=1 t=177
 you dian 	有点	c=2 d=0.0565525 t=9419
 you dian dong xi 	有点东西	c=1 d=8.74609e-13 t=9419
 you dian li hai 	有点厉害	c=1 d=4.08108e-16 t=9419
@@ -3695,6 +3762,7 @@ you hao 	友好	c=0 d=2.71357e-10 t=9419
 you hao chu 	有好处	c=1 d=5.58928e-10 t=9419
 you hao zhuan 	友好转	c=1 d=2.72717e-09 t=9419
 you hen duo 	有很多	c=1 d=7.43495e-14 t=9419
+you hou jiao ben 	油猴脚本	c=1 d=1 t=46
 you hua 	优化	c=2 d=0.00113638 t=9419
 you hua dai ma 	优化代码	c=1 d=8.61148e-07 t=9419
 you hui 	优惠	c=0 d=3.70996e-13 t=9419
@@ -3711,11 +3779,12 @@ you le ma 	有了吗	c=1 d=0.103312 t=9419
 you le you le 	有了有了	c=1 d=1.47568e-19 t=9419
 you mei you 	又没有	c=1 d=0.000418012 t=9419
 you mei you 	有没有	c=1 d=0.0650509 t=9419
-you mei you da lao 	有没有大佬	c=1 d=1 t=58
+you mei you da lao 	有没有大佬	c=1 d=4.70811e-21 t=9419
 you mei you hao zhuan 	有没有好转	c=1 d=8.52869e-11 t=9419
 you neng 	又能	c=1 d=2.65523e-18 t=9419
 you ni de ming zi 	有你的名字	c=1 d=9.10922e-21 t=9419
 you qi 	尤其	c=0 d=2.34323e-19 t=9419
+you qi lin 	优麒麟	c=1 d=1 t=62
 you qi nang 	有气囊	c=1 d=8.81268e-14 t=9419
 you qi ta 	尤其他	c=1 d=2.35498e-18 t=9419
 you qu 	又去	c=0 d=0.00134335 t=9419
@@ -3752,12 +3821,15 @@ you zhi 	有值	c=2 d=1.96079 t=9419
 you zuo yong 	有作用	c=1 d=2.60717e-09 t=9419
 yu 	与	c=17 d=1.06994 t=9419
 yu 	于	c=1 d=1.08983e-12 t=9419
+yu an 	预案	c=0 d=0.1 t=149
 yu dao 	遇到	c=1 d=0.554327 t=9419
 yu di 	雨滴	c=2 d=5.64041e-16 t=9419
 yu er 	育儿	c=1 d=0.000302025 t=9419
 yu fa 	语法	c=1 d=3.61209e-21 t=9419
 yu gu 	预估	c=1 d=0.254107 t=9419
 yu ju 	语句	c=3 d=5.38068e-17 t=9419
+yu liu 	预留	c=0 d=0.1 t=141
+yu liu de 	预留的	c=1 d=1 t=142
 yu ming 	域名	c=1 d=3.60277e-20 t=9419
 yu shua qi 	雨刷器	c=2 d=1.29287e-13 t=9419
 yu yue 	预约	c=3 d=5.61539e-06 t=9419
@@ -3798,7 +3870,7 @@ yue tao 	越掏	c=1 d=0.00186406 t=9419
 yue zao 	越早	c=2 d=1.24372e-18 t=9419
 yun dong shi shang 	运动时尚	c=1 d=0.000365224 t=9419
 yun wei 	运维	c=1 d=3.54852e-18 t=9419
-yun xing 	运行	c=5 d=1.53904e-06 t=9419
+yun xing 	运行	c=5 d=0.0463013 t=9419
 yun xing shi 	运行时	c=2 d=1.16282e-10 t=9419
 yun ying 	运营	c=1 d=0.00532682 t=9419
 yun ying guan li 	运营管理	c=1 d=0.00557201 t=9419
@@ -3836,7 +3908,7 @@ zan lia 	咱俩	c=2 d=5.21766e-12 t=9419
 zan ma 	咱妈	c=1 d=7.48563e-05 t=9419
 zan ma shuo 	咱妈说	c=1 d=2.17207e-08 t=9419
 zan men 	咱们	c=4 d=2.29198e-11 t=9419
-zan ting 	暂停	c=2 d=5.07649e-17 t=9419
+zan ting 	暂停	c=2 d=1.24383 t=9419
 zan ya qing ge 	咱亚清哥	c=1 d=5.75852e-08 t=9419
 zao 	早	c=4 d=0.0193748 t=9419
 zao 	造	c=1 d=8.83398e-13 t=9419
@@ -3858,10 +3930,12 @@ zeng jia 	增加	c=6 d=0.017775 t=9419
 zeng liang 	增量	c=4 d=5.46539e-11 t=9419
 zeng zhang 	增长	c=2 d=0.00973682 t=9419
 zhai nan 	宅男	c=1 d=1.46732e-11 t=9419
+zhai zi 	摘自	c=1 d=1 t=6
 zhan 	站	c=3 d=1.53493e-11 t=9419
 zhan shi 	展示	c=2 d=1.26341e-05 t=9419
 zhan tie 	粘贴	c=1 d=4.2068e-20 t=9419
-zhan yong 	占用	c=3 d=8.07369e-20 t=9419
+zhan wei fu 	占位符	c=1 d=1 t=38
+zhan yong 	占用	c=3 d=0.640824 t=9419
 zhan yong nei cun 	占用内存	c=1 d=4.32372e-19 t=9419
 zhan zai 	站在	c=1 d=1.37877e-14 t=9419
 zhang 	张	c=5 d=1.34061e-05 t=9419
@@ -3931,10 +4005,11 @@ zhe ren 	这人	c=1 d=0.000106752 t=9419
 zhe ruan jian 	这软件	c=1 d=0.00192083 t=9419
 zhe san ge 	这三个	c=1 d=5.74365e-07 t=9419
 zhe shen qing biao 	这申请表	c=1 d=2.41254e-08 t=9419
+zhe shi 	这时	c=1 d=1 t=148
 zhe shi 	这是	c=2 d=1.45987 t=9419
 zhe shi na er 	这是哪儿	c=1 d=1.16663e-19 t=9419
-zhe shi shen me 	这是什么	c=0 d=0.1 t=55
-zhe shi shen me zi ti 	这是什么字体	c=1 d=1.09005 t=58
+zhe shi shen me 	这是什么	c=0 d=4.63802e-22 t=9419
+zhe shi shen me zi ti 	这是什么字体	c=1 d=5.13208e-21 t=9419
 zhe shi zhi qian 	这是之前	c=1 d=0.460704 t=9419
 zhe shuang 	这双	c=2 d=2.48093e-05 t=9419
 zhe si ge 	这四个	c=1 d=0.0265162 t=9419
@@ -3974,7 +4049,8 @@ zheng ge ban gong shi 	整个办公室	c=1 d=0.000108366 t=9419
 zheng ge guo cheng 	整个过程	c=1 d=2.4566e-15 t=9419
 zheng he 	整合	c=2 d=8.9094e-17 t=9419
 zheng le 	挣了	c=2 d=0.00129138 t=9419
-zheng li 	整理	c=5 d=1.27033e-07 t=9419
+zheng li 	整理	c=5 d=1.03158 t=9419
+zheng li wen dang 	整理文档	c=1 d=1 t=40
 zheng ming 	证明	c=3 d=0.00051312 t=9419
 zheng qian le 	挣钱了	c=1 d=0.00212284 t=9419
 zheng que 	正确	c=2 d=0.0376298 t=9419
@@ -3997,7 +4073,7 @@ zhi dao 	直到	c=6 d=0.615697 t=9419
 zhi dao 	知道	c=2 d=0.065377 t=9419
 zhi dao ba 	知道吧	c=1 d=0.0526021 t=9419
 zhi dao le 	知道了	c=1 d=2.18482e-18 t=9419
-zhi dao zhe shi shen me zi ti 	知道这是什么字体	c=1 d=1 t=59
+zhi dao zhe shi shen me zi ti 	知道这是什么字体	c=1 d=4.73171e-21 t=9419
 zhi de mai 	值得买	c=1 d=0.00218749 t=9419
 zhi de shi 	指的是	c=1 d=0.960789 t=9419
 zhi ding 	制定	c=3 d=7.10295e-06 t=9419
@@ -4019,7 +4095,7 @@ zhi pai 	指派	c=1 d=0.000380129 t=9419
 zhi qian 	之前	c=15 d=1.342 t=9419
 zhi shao 	至少	c=3 d=8.33539e-06 t=9419
 zhi shao yao 	至少要	c=1 d=4.76449e-14 t=9419
-zhi shi 	只是	c=1 d=1 t=119
+zhi shi 	只是	c=1 d=6.38714e-21 t=9419
 zhi shi 	知识	c=5 d=5.66437e-07 t=9419
 zhi wen jian 	值文件	c=1 d=3.41763e-17 t=9419
 zhi xing 	执行	c=21 d=1.64666e-09 t=9419
@@ -4034,7 +4110,7 @@ zhi you wo 	只有我	c=1 d=8.07915e-21 t=9419
 zhi zhi xing yi ci 	只执行一次	c=1 d=3.77642e-15 t=9419
 zhong 	中	c=13 d=0.0209548 t=9419
 zhong 	种	c=1 d=0.516851 t=9419
-zhong duan 	中断	c=1 d=1 t=44
+zhong duan 	中断	c=1 d=4.38981e-21 t=9419
 zhong guo 	中国	c=3 d=2.2094e-09 t=9419
 zhong kong 	中控	c=1 d=3.14619e-14 t=9419
 zhong shu 	中暑	c=1 d=9.14709e-11 t=9419
@@ -4056,6 +4132,7 @@ zhu guan 	主管	c=1 d=0.00891562 t=9419
 zhu jian 	主键	c=6 d=3.77332e-05 t=9419
 zhu jie 	注解	c=2 d=0.0125881 t=9419
 zhu shi 	注释	c=4 d=8.68939e-06 t=9419
+zhu shou 	助手	c=2 d=1.99005 t=33
 zhu ti 	主题	c=5 d=5.41025e-09 t=9419
 zhu yao 	主要	c=1 d=1.36129e-11 t=9419
 zhu yao shi 	主要是	c=0 d=1.99956e-06 t=9419
@@ -4070,6 +4147,7 @@ zhuan cheng 	转成	c=2 d=3.62785e-10 t=9419
 zhuan fa 	转发	c=3 d=1.03691e-07 t=9419
 zhuan gei 	转给	c=2 d=1.16825e-06 t=9419
 zhuan gei ni 	转给你	c=1 d=1.1126e-20 t=9419
+zhuan hang 	转行	c=1 d=1 t=72
 zhuan hua 	转化	c=0 d=0.0980199 t=9419
 zhuan huan 	转换	c=1 d=1.09511e-10 t=9419
 zhuan men 	专门	c=1 d=3.67492e-18 t=9419
@@ -4080,7 +4158,7 @@ zhuan xiang deng 	转向灯	c=5 d=2.21657e-13 t=9419
 zhuan xiao xie 	转小写	c=1 d=7.64029e-11 t=9419
 zhuan ye 	专业	c=1 d=4.0618e-14 t=9419
 zhuang le 	装了	c=1 d=1.50032e-08 t=9419
-zhuang tai 	状态	c=3 d=1.25642e-09 t=9419
+zhuang tai 	状态	c=3 d=0.467666 t=9419
 zhuang tai zhi 	状态值	c=0 d=1.03221e-21 t=9419
 zhuang xiu 	装修	c=1 d=1.24438e-18 t=9419
 zhuang xiu dai 	装修贷	c=3 d=3.14194e-18 t=9419
@@ -4116,9 +4194,9 @@ zi ti xia zai 	字体下载	c=1 d=4.89859e-17 t=9419
 zi xing 	自行	c=1 d=1.61828e-16 t=9419
 zi xing che 	自行车	c=1 d=2.99998e-13 t=9419
 zi yan 	自研	c=2 d=1.20891e-15 t=9419
-zi yuan 	资源	c=1 d=6.08411e-08 t=9419
+zi yuan 	资源	c=2 d=1.34328 t=9419
 zi yuan ming cheng 	资源名称	c=1 d=2.3844e-17 t=9419
-zong 	总	c=3 d=0.000362748 t=9419
+zong 	总	c=3 d=0.66034 t=9419
 zong bu 	总部	c=2 d=1.36452 t=9419
 zong shi 	总是	c=1 d=0.00527382 t=9419
 zou 	走	c=4 d=0.0305249 t=9419
@@ -4137,7 +4215,7 @@ zui duo 	最多	c=3 d=0.000761668 t=9419
 zui fang bian 	最方便	c=1 d=4.32152e-13 t=9419
 zui gao xue li 	最高学历	c=1 d=2.5253e-16 t=9419
 zui hao 	最好	c=1 d=3.53575e-05 t=9419
-zui hou 	最后	c=5 d=0.000537837 t=9419
+zui hou 	最后	c=5 d=0.506617 t=9419
 zui hou geng xin 	最后更新	c=1 d=2.13602e-17 t=9419
 zui hou yi ci 	最后一次	c=1 d=0.00941925 t=9419
 zui jian dan 	最简单	c=1 d=3.40822e-14 t=9419
