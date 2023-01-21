@@ -7,8 +7,8 @@ ascii_composer:
     Eisu_toggle: clear
     Shift_L: commit_code
     Shift_R: commit_text
-config_version: 0.35.custom.1845433767
-customization: 1845433767
+config_version: 0.35.custom.3387372552
+customization: 3387372552
 key_binder:
   bindings:
     - {accept: "=", send: Page_Down, when: composing}
@@ -90,9 +90,7 @@ recognizer:
 schema_list:
   - schema: clover
   - schema: double_pinyin_flypy
-style:
-  "horizontal\"": true
 switcher:
   caption: "〔切换输入法〕"
   hotkeys:
-    - F4
+    - "Control+Shift"
